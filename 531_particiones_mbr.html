@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="content.css" />
 <link rel="stylesheet" type="text/css" href="nav.css" />
 <meta http-equiv="content-type" content="text/html;  charset=utf-8" />
-<title>1: Seguridad | Apuntes OACE </title>
+<title>5.3.1 Particiones MBR | Apuntes OACE </title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <meta name="author" content="José León Larrondo García" />
 <link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
@@ -16,7 +16,7 @@
 <script type="text/javascript" src="common.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
-<body class="exe-web-site" id="exe-node-30"><script type="text/javascript">document.body.className+=" js"</script>
+<body class="exe-web-site" id="exe-node-90"><script type="text/javascript">document.body.className+=" js"</script>
 <div id="content">
 <p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
 <header id="header" ><div id="headerContent">Apuntes OACE</div></header>
@@ -69,10 +69,10 @@
       <li><a href="6_mensajera_instantnea.html" class="no-ch">6: Mensajería Instantánea</a></li>
    </ul>
    </li>
-   <li class="current-page-parent"><a href="ud3_seguridad_informtica.html" class="current-page-parent daddy">UD3: Seguridad Informática</a>
-   <ul>
-      <li id="active"><a href="1_seguridad.html" class="active daddy">1: Seguridad</a>
-      <ul>
+   <li><a href="ud3_seguridad_informtica.html" class="daddy">UD3: Seguridad Informática</a>
+   <ul class="other-section">
+      <li><a href="1_seguridad.html" class="daddy">1: Seguridad</a>
+      <ul class="other-section">
          <li><a href="11_definicin.html" class="no-ch">1.1 Definición</a></li>
          <li><a href="12_tipos_de_amenazas.html" class="no-ch">1.2 Tipos de amenazas</a></li>
       </ul>
@@ -126,8 +126,8 @@
    </ul>
    </li>
    <li><a href="ud4_multimedia.html" class="no-ch">UD4: Multimedia</a></li>
-   <li><a href="ud5_implantacin_de_ssoo.html" class="daddy">UD5: Implantación de SSOO</a>
-   <ul class="other-section">
+   <li class="current-page-parent"><a href="ud5_implantacin_de_ssoo.html" class="current-page-parent daddy">UD5: Implantación de SSOO</a>
+   <ul>
       <li><a href="1_caractersticas_y_funciones_fundamentales_de_un_so.html" class="daddy">1: Características y funciones fundamentales de un S.O.</a>
       <ul class="other-section">
          <li><a href="11_funciones_de_un_sistema_operativo.html" class="no-ch">1.1 Funciones de un sistema operativo</a></li>
@@ -157,13 +157,13 @@
          <li><a href="44_rutas_relativas.html" class="no-ch">4.4 Rutas relativas</a></li>
       </ul>
       </li>
-      <li><a href="5_gestin_del_sistema_de_archivos.html" class="daddy">5 Gestión del sistema de archivos</a>
-      <ul class="other-section">
+      <li class="current-page-parent"><a href="5_gestin_del_sistema_de_archivos.html" class="current-page-parent daddy">5 Gestión del sistema de archivos</a>
+      <ul>
          <li><a href="51_sistemas_de_archivos.html" class="no-ch">5.1 Sistemas de archivos</a></li>
          <li><a href="52_formato_de_discos.html" class="no-ch">5.2 Formato de discos</a></li>
-         <li><a href="53_particiones_de_disco.html" class="daddy">5.3 Particiones de disco</a>
-         <ul class="other-section">
-            <li><a href="531_particiones_mbr.html" class="no-ch">5.3.1 Particiones MBR</a></li>
+         <li class="current-page-parent"><a href="53_particiones_de_disco.html" class="current-page-parent daddy">5.3 Particiones de disco</a>
+         <ul>
+            <li id="active"><a href="531_particiones_mbr.html" class="active no-ch">5.3.1 Particiones MBR</a></li>
             <li><a href="532_particiones_gpts.html" class="no-ch">5.3.2 Particiones GPTs</a></li>
             <li><a href="534_software_para_trabajar_con_discos.html" class="no-ch">5.3.4 Software para trabajar con discos</a></li>
          </ul>
@@ -178,21 +178,81 @@
 </nav>
 <div id='topPagination'>
 <nav class="pagination noprt">
-<a href="ud3_seguridad_informtica.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="11_definicin.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="53_particiones_de_disco.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="532_particiones_gpts.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <div id="main-wrapper">
 <section id="main">
-<header id="nodeDecoration"><h1 id="nodeTitle">1: Seguridad</h1></header>
-<article class="iDevice_wrapper textIdevice" id="id38">
+<header id="nodeDecoration"><h1 id="nodeTitle">5.3.1 Particiones MBR</h1></header>
+<article class="iDevice_wrapper textIdevice" id="id107">
 <div class="iDevice emphasis0" >
-<div id="ta38_110_2" class="block iDevice_content">
-<div class="exe-text"><blockquote>
-<blockquote class="exe-quote-cite styled-qc" lang="inglés">
-<p>The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts</p>
-<cite lang="inglés">Gene Spafford</cite></blockquote>
-<p>El único sistema seguro es aquél que está apagado en el interior de un bloque de hormigón, protegido en una habitación sellada y rodeada por guardias armados y , aún así, tendría mis dudas.<br /> </p>
-</blockquote></div>
+<div id="ta107_114_2" class="block iDevice_content">
+<div class="exe-text"><p><span md-inline="plain" class="md-plain md-expand">En la siguiente imagen puedes ver la </span><span md-inline="strong" class="md-pair-s "><strong><span md-inline="plain" class="md-plain">estructura lógica</span></strong></span><span md-inline="plain" class="md-plain md-expand"> de un disco duro MBR:</span></p>
+<p><span md-inline="plain" class="md-plain md-expand"><img src="Disco_duro_estructura_l_C3_B3gica.png" width="599" height="275" alt="mr" /></span></p>
+<p cid="n40" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">Existen los siguientes tipos de particiones en un disco duro MBR:</span></p>
+<ul class="ul-list" cid="n41" mdtype="list" data-mark="*">
+<li class="md-list-item" cid="n42" mdtype="list_item">
+<p cid="n43" mdtype="paragraph" class="md-end-block md-p"><span md-inline="strong" class="md-pair-s "><strong><span md-inline="plain" class="md-plain">Partición primaria</span></strong></span><span md-inline="plain" class="md-plain">: Son espacios de disco. En un disco duro puede haber un máximo de 4 particiones primarias. Las particiones primarias pueden ser marcadas como activas pero en un disco duro solo puede haber marcada como activa 1 partición al mismo tiempo. En un principio los SSOO solo podía ser instalados en estas particiones pero en la actualidad algunos SSOO pueden ser instalados en unidades lógicas.</span></p>
+</li>
+<li class="md-list-item" cid="n44" mdtype="list_item">
+<p cid="n45" mdtype="paragraph" class="md-end-block md-p"><span md-inline="strong" class="md-pair-s "><strong><span md-inline="plain" class="md-plain">Partición extendida</span></strong></span><span md-inline="plain" class="md-plain">: Es un contenedor de unidades lógicas. Estas particiones se crearon con el fin de evitar el límite de tener máximo 4 particiones por disco. En cada disco duro puede haber únicamente 0 o 1 particiones extendidas.</span></p>
+</li>
+<li class="md-list-item" cid="n46" mdtype="list_item">
+<p cid="n47" mdtype="paragraph" class="md-end-block md-p"><span md-inline="strong" class="md-pair-s "><strong><span md-inline="plain" class="md-plain">Unidades lógicas</span></strong></span><span md-inline="plain" class="md-plain">: No son particiones como tal, si bien es cierto que en muchos textos podemos encontrarlas clasificadas como particiones. Deben estar ubicadas dentro de particiones extendidas.</span></p>
+</li>
+</ul>
+<p cid="n48" mdtype="paragraph" class="md-end-block md-p md-focus"><span md-inline="plain" class="md-plain">Además de las restricciones antes mencionadas hay que indicar que el sumatorio de unidades primarias y unidades lógicas debe ser igual o inferior a 4. En la siguiente tabla podemos ver algunas configuraciones:</span></p>
+<table border="1" style="width: 98.5714%;">
+<tbody>
+<tr class="md-end-block md-focus-container" cid="n50" mdtype="table_row">
+<th style="width: 7.69231%;"><span class="td-span md-focus" cid="n51" mdtype="table_cell"><span md-inline="plain" class="md-plain md-expand">-</span></span></th>
+<th style="width: 25.3846%;"><span class="td-span" cid="n52" mdtype="table_cell"><span md-inline="plain" class="md-plain">Nº de part. primarias</span></span></th>
+<th style="width: 27.1429%;"><span class="td-span" cid="n53" mdtype="table_cell"><span md-inline="plain" class="md-plain">Nº de part. extendidas</span></span></th>
+<th style="width: 27.3626%;"><span class="td-span" cid="n54" mdtype="table_cell"><span md-inline="plain" class="md-plain">Nº de unidades lógicas</span></span></th>
+<th style="width: 10.989%;"><span class="td-span" cid="n55" mdtype="table_cell"><span md-inline="plain" class="md-plain">-</span></span></th>
+</tr>
+<tr class="md-end-block" cid="n56" mdtype="table_row">
+<td style="width: 7.69231%;"><span class="td-span" cid="n57" mdtype="table_cell"><span md-inline="plain" class="md-plain">Caso A</span></span></td>
+<td style="width: 25.3846%;"><span class="td-span" cid="n58" mdtype="table_cell"><span md-inline="plain" class="md-plain">1</span></span></td>
+<td style="width: 27.1429%;"><span class="td-span" cid="n59" mdtype="table_cell"><span md-inline="plain" class="md-plain">1</span></span></td>
+<td style="width: 27.3626%;"><span class="td-span" cid="n60" mdtype="table_cell"><span md-inline="plain" class="md-plain">4</span></span></td>
+<td style="width: 10.989%;"><span class="td-span" cid="n61" mdtype="table_cell"><span md-inline="plain" class="md-plain">Correcto</span></span></td>
+</tr>
+<tr class="md-end-block" cid="n62" mdtype="table_row">
+<td style="width: 7.69231%;"><span class="td-span" cid="n63" mdtype="table_cell"><span md-inline="plain" class="md-plain">Caso B</span></span></td>
+<td style="width: 25.3846%;"><span class="td-span" cid="n64" mdtype="table_cell"><span md-inline="plain" class="md-plain">4</span></span></td>
+<td style="width: 27.1429%;"><span class="td-span" cid="n65" mdtype="table_cell"><span md-inline="plain" class="md-plain">0</span></span></td>
+<td style="width: 27.3626%;"><span class="td-span" cid="n66" mdtype="table_cell"><span md-inline="plain" class="md-plain">0</span></span></td>
+<td style="width: 10.989%;"><span class="td-span" cid="n67" mdtype="table_cell"><span md-inline="plain" class="md-plain">Correcto</span></span></td>
+</tr>
+<tr class="md-end-block" cid="n68" mdtype="table_row">
+<td style="width: 7.69231%;"><span class="td-span" cid="n69" mdtype="table_cell"><span md-inline="plain" class="md-plain">Caso C</span></span></td>
+<td style="width: 25.3846%;"><span class="td-span" cid="n70" mdtype="table_cell"><span md-inline="plain" class="md-plain">4</span></span></td>
+<td style="width: 27.1429%;"><span class="td-span" cid="n71" mdtype="table_cell"><span md-inline="plain" class="md-plain">1</span></span></td>
+<td style="width: 27.3626%;"><span class="td-span" cid="n72" mdtype="table_cell"><span md-inline="plain" class="md-plain">1</span></span></td>
+<td style="width: 10.989%;"><span class="td-span" cid="n73" mdtype="table_cell"><span md-inline="plain" class="md-plain">Incorrecto</span></span></td>
+</tr>
+<tr class="md-end-block" cid="n74" mdtype="table_row">
+<td style="width: 7.69231%;"><span class="td-span" cid="n75" mdtype="table_cell"><span md-inline="plain" class="md-plain">Caso D</span></span></td>
+<td style="width: 25.3846%;"><span class="td-span" cid="n76" mdtype="table_cell"><span md-inline="plain" class="md-plain">4</span></span></td>
+<td style="width: 27.1429%;"><span class="td-span" cid="n77" mdtype="table_cell"><span md-inline="plain" class="md-plain">2</span></span></td>
+<td style="width: 27.3626%;"><span class="td-span" cid="n78" mdtype="table_cell"><span md-inline="plain" class="md-plain">4</span></span></td>
+<td style="width: 10.989%;"><span class="td-span" cid="n79" mdtype="table_cell"><span md-inline="plain" class="md-plain">Incorrecto</span></span></td>
+</tr>
+<tr class="md-end-block md-focus-container" cid="n80" mdtype="table_row">
+<td style="width: 7.69231%;"><span class="td-span" cid="n81" mdtype="table_cell"><span md-inline="plain" class="md-plain">Caso E</span></span></td>
+<td style="width: 25.3846%;"><span class="td-span" cid="n82" mdtype="table_cell"><span md-inline="plain" class="md-plain">3</span></span></td>
+<td style="width: 27.1429%;"><span class="td-span" cid="n83" mdtype="table_cell"><span md-inline="plain" class="md-plain">0</span></span></td>
+<td style="width: 27.3626%;"><span class="td-span" cid="n84" mdtype="table_cell"><span md-inline="plain" class="md-plain">1</span></span></td>
+<td style="width: 10.989%;"><span class="td-span md-focus" cid="n85" mdtype="table_cell"><span md-inline="plain" class="md-plain md-expand">Incorrecto</span></span></td>
+</tr>
+</tbody>
+</table>
+<p cid="n86" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">El <strong>caso A</strong> es correcto puesto que el sumatorio de particiones primarias y extendidas que tiene es menor o igual a 4 y el sumatorio de particiones extendidas que tiene es menor o igual a 1.</span></p>
+<p cid="n87" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">El <strong>caso B</strong> es correcto puesto que el sumatorio de particiones primarias y extendidas que tiene es menor o igual a 4 y el sumatorio de particiones extendidas que tiene es menor o igual a 1.</span></p>
+<p cid="n88" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">El <strong>caso C</strong> es incorrecto puesto que el sumatorio de particiones primarias y extendidas que tiene es mayor a 4.</span></p>
+<p cid="n89" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">El <strong>caso D</strong> es incorrecto puesto que el sumatorio de particiones primarias y extendidas que tiene es mayor a 4 y además tiene 2 particiones extendidas.</span></p>
+<p cid="n90" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">El <strong>caso E</strong> es incorrecto puesto que no puede tener unidades lógicas al no tener particiones extendidas.</span></p></div>
 </div>
 </div>
 </article>
@@ -203,7 +263,7 @@
 </div>
 <div id='bottomPagination'>
 <nav class="pagination noprt">
-<a href="ud3_seguridad_informtica.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="11_definicin.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="53_particiones_de_disco.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="532_particiones_gpts.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 </div>

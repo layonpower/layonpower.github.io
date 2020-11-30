@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="content.css" />
 <link rel="stylesheet" type="text/css" href="nav.css" />
 <meta http-equiv="content-type" content="text/html;  charset=utf-8" />
-<title>1: Seguridad | Apuntes OACE </title>
+<title>5.3 Particiones de disco | Apuntes OACE </title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <meta name="author" content="José León Larrondo García" />
 <link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
@@ -16,7 +16,7 @@
 <script type="text/javascript" src="common.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
-<body class="exe-web-site" id="exe-node-30"><script type="text/javascript">document.body.className+=" js"</script>
+<body class="exe-web-site" id="exe-node-89"><script type="text/javascript">document.body.className+=" js"</script>
 <div id="content">
 <p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
 <header id="header" ><div id="headerContent">Apuntes OACE</div></header>
@@ -69,10 +69,10 @@
       <li><a href="6_mensajera_instantnea.html" class="no-ch">6: Mensajería Instantánea</a></li>
    </ul>
    </li>
-   <li class="current-page-parent"><a href="ud3_seguridad_informtica.html" class="current-page-parent daddy">UD3: Seguridad Informática</a>
-   <ul>
-      <li id="active"><a href="1_seguridad.html" class="active daddy">1: Seguridad</a>
-      <ul>
+   <li><a href="ud3_seguridad_informtica.html" class="daddy">UD3: Seguridad Informática</a>
+   <ul class="other-section">
+      <li><a href="1_seguridad.html" class="daddy">1: Seguridad</a>
+      <ul class="other-section">
          <li><a href="11_definicin.html" class="no-ch">1.1 Definición</a></li>
          <li><a href="12_tipos_de_amenazas.html" class="no-ch">1.2 Tipos de amenazas</a></li>
       </ul>
@@ -126,8 +126,8 @@
    </ul>
    </li>
    <li><a href="ud4_multimedia.html" class="no-ch">UD4: Multimedia</a></li>
-   <li><a href="ud5_implantacin_de_ssoo.html" class="daddy">UD5: Implantación de SSOO</a>
-   <ul class="other-section">
+   <li class="current-page-parent"><a href="ud5_implantacin_de_ssoo.html" class="current-page-parent daddy">UD5: Implantación de SSOO</a>
+   <ul>
       <li><a href="1_caractersticas_y_funciones_fundamentales_de_un_so.html" class="daddy">1: Características y funciones fundamentales de un S.O.</a>
       <ul class="other-section">
          <li><a href="11_funciones_de_un_sistema_operativo.html" class="no-ch">1.1 Funciones de un sistema operativo</a></li>
@@ -157,12 +157,12 @@
          <li><a href="44_rutas_relativas.html" class="no-ch">4.4 Rutas relativas</a></li>
       </ul>
       </li>
-      <li><a href="5_gestin_del_sistema_de_archivos.html" class="daddy">5 Gestión del sistema de archivos</a>
-      <ul class="other-section">
+      <li class="current-page-parent"><a href="5_gestin_del_sistema_de_archivos.html" class="current-page-parent daddy">5 Gestión del sistema de archivos</a>
+      <ul>
          <li><a href="51_sistemas_de_archivos.html" class="no-ch">5.1 Sistemas de archivos</a></li>
          <li><a href="52_formato_de_discos.html" class="no-ch">5.2 Formato de discos</a></li>
-         <li><a href="53_particiones_de_disco.html" class="daddy">5.3 Particiones de disco</a>
-         <ul class="other-section">
+         <li id="active"><a href="53_particiones_de_disco.html" class="active daddy">5.3 Particiones de disco</a>
+         <ul>
             <li><a href="531_particiones_mbr.html" class="no-ch">5.3.1 Particiones MBR</a></li>
             <li><a href="532_particiones_gpts.html" class="no-ch">5.3.2 Particiones GPTs</a></li>
             <li><a href="534_software_para_trabajar_con_discos.html" class="no-ch">5.3.4 Software para trabajar con discos</a></li>
@@ -178,20 +178,18 @@
 </nav>
 <div id='topPagination'>
 <nav class="pagination noprt">
-<a href="ud3_seguridad_informtica.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="11_definicin.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="52_formato_de_discos.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="531_particiones_mbr.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <div id="main-wrapper">
 <section id="main">
-<header id="nodeDecoration"><h1 id="nodeTitle">1: Seguridad</h1></header>
-<article class="iDevice_wrapper textIdevice" id="id38">
+<header id="nodeDecoration"><h1 id="nodeTitle">5.3 Particiones de disco</h1></header>
+<article class="iDevice_wrapper textIdevice" id="id106">
 <div class="iDevice emphasis0" >
-<div id="ta38_110_2" class="block iDevice_content">
-<div class="exe-text"><blockquote>
-<blockquote class="exe-quote-cite styled-qc" lang="inglés">
-<p>The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts</p>
-<cite lang="inglés">Gene Spafford</cite></blockquote>
-<p>El único sistema seguro es aquél que está apagado en el interior de un bloque de hormigón, protegido en una habitación sellada y rodeada por guardias armados y , aún así, tendría mis dudas.<br /> </p>
+<div id="ta106_113_2" class="block iDevice_content">
+<div class="exe-text"><p cid="n34" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">De nuevo recurrimos a la wikipedia para explicar que es una </span><span md-inline="link" class="md-meta-i-c  md-link"><a spellcheck="false" href="https://es.wikipedia.org/wiki/Partici%C3%B3n_de_disco"><span md-inline="plain" class="md-plain">partición de disco</span></a></span><span md-inline="plain" class="md-plain">:</span></p>
+<blockquote cid="n35" mdtype="blockquote">
+<p cid="n36" mdtype="paragraph" class="md-end-block md-p md-focus"><span md-inline="plain" class="md-plain">Una partición de un disco duro es una división lógica en una unidad de almacenamiento </span><span md-inline="escape">(</span><span md-inline="plain" class="md-plain">por ejemplo un disco duro o unidad flash</span><span md-inline="escape">)</span><span md-inline="plain" class="md-plain">, en la cual se alojan y organizan los archivos mediante un sistema de archivos.</span></p>
 </blockquote></div>
 </div>
 </div>
@@ -203,7 +201,7 @@
 </div>
 <div id='bottomPagination'>
 <nav class="pagination noprt">
-<a href="ud3_seguridad_informtica.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="11_definicin.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="52_formato_de_discos.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="531_particiones_mbr.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 </div>

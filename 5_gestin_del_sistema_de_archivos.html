@@ -157,7 +157,20 @@
          <li><a href="44_rutas_relativas.html" class="no-ch">4.4 Rutas relativas</a></li>
       </ul>
       </li>
-      <li id="active"><a href="5_gestin_del_sistema_de_archivos.html" class="active no-ch">5 Gestión del sistema de archivos</a></li>
+      <li id="active"><a href="5_gestin_del_sistema_de_archivos.html" class="active daddy">5 Gestión del sistema de archivos</a>
+      <ul>
+         <li><a href="51_sistemas_de_archivos.html" class="no-ch">5.1 Sistemas de archivos</a></li>
+         <li><a href="52_formato_de_discos.html" class="no-ch">5.2 Formato de discos</a></li>
+         <li><a href="53_particiones_de_disco.html" class="daddy">5.3 Particiones de disco</a>
+         <ul class="other-section">
+            <li><a href="531_particiones_mbr.html" class="no-ch">5.3.1 Particiones MBR</a></li>
+            <li><a href="532_particiones_gpts.html" class="no-ch">5.3.2 Particiones GPTs</a></li>
+            <li><a href="534_software_para_trabajar_con_discos.html" class="no-ch">5.3.4 Software para trabajar con discos</a></li>
+         </ul>
+         </li>
+         <li><a href="54_comparativa_sistemas_de_archivos.html" class="no-ch">5.4 Comparativa sistemas de archivos</a></li>
+      </ul>
+      </li>
    </ul>
    </li>
    <li><a href="ud6y7_windows_y_linux.html" class="no-ch">UD6y7: Windows y Linux</a></li>
@@ -165,12 +178,34 @@
 </nav>
 <div id='topPagination'>
 <nav class="pagination noprt">
-<a href="44_rutas_relativas.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="ud6y7_windows_y_linux.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="44_rutas_relativas.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="51_sistemas_de_archivos.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <div id="main-wrapper">
 <section id="main">
 <header id="nodeDecoration"><h1 id="nodeTitle">5 Gestión del sistema de archivos</h1></header>
+<article class="iDevice_wrapper textIdevice" id="id103">
+<div class="iDevice emphasis0" >
+<div id="ta103_110_2" class="block iDevice_content">
+<div class="exe-text"><p cid="n2" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain md-expand">Antes de comenzar con los sistemas de archivos vamos a recordar algunas cuestiones:</span></p>
+<p cid="n2" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain md-expand"> Estructura física y estructura lógica de un disco duro.</span></p>
+<p cid="n3" mdtype="paragraph" class="md-end-block md-p md-focus"><span md-inline="plain" class="md-plain">En la imagen que aparece a continuación puedes ver la </span><span md-inline="strong" class="md-pair-s "><strong><span md-inline="plain" class="md-plain">estructura física</span></strong></span><span md-inline="plain" class="md-plain"> de un disco duro:</span></p>
+<p cid="n3" mdtype="paragraph" class="md-end-block md-p md-focus"><span md-inline="plain" class="md-plain"><img src="Dico_duro_estructura_f_C3_ADsica.png" width="512" height="512" alt="sectores" /></span></p>
+<p cid="n5" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">donde:</span></p>
+<ul class="ul-list" cid="n6" mdtype="list" data-mark="*">
+<li class="md-list-item" cid="n7" mdtype="list_item">
+<p cid="n8" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">A: es una pista </span><span md-inline="escape">(</span><span md-inline="plain" class="md-plain">la agrupación de las distintas pistas forma un cilindro</span><span md-inline="escape">)</span></p>
+</li>
+<li class="md-list-item" cid="n9" mdtype="list_item">
+<p cid="n10" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">C: es un sector</span></p>
+</li>
+<li class="md-list-item" cid="n11" mdtype="list_item">
+<p cid="n12" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">D: es una agrupación de sectores </span><span md-inline="escape">(</span><span md-inline="plain" class="md-plain">desde una perspectiva lógica lo llamaremos cluster</span><span md-inline="escape">)</span></p>
+</li>
+</ul></div>
+</div>
+</div>
+</article>
 <div id="packageLicense" class="cc cc-by-nc-sa">
 <p><span>Obra publicada con</span> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></p>
 </div>
@@ -178,7 +213,7 @@
 </div>
 <div id='bottomPagination'>
 <nav class="pagination noprt">
-<a href="44_rutas_relativas.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="ud6y7_windows_y_linux.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="44_rutas_relativas.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="51_sistemas_de_archivos.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 </div>
