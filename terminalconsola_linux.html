@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="content.css" />
 <link rel="stylesheet" type="text/css" href="nav.css" />
 <meta http-equiv="content-type" content="text/html;  charset=utf-8" />
-<title>6.6 Hijacking | Apuntes OACE </title>
+<title>Terminal/Consola Linux | Apuntes OACE </title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <meta name="author" content="José León Larrondo García" />
 <link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
@@ -16,7 +16,7 @@
 <script type="text/javascript" src="common.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
-<body class="exe-web-site" id="exe-node-62"><script type="text/javascript">document.body.className+=" js"</script>
+<body class="exe-web-site" id="exe-node-96"><script type="text/javascript">document.body.className+=" js"</script>
 <div id="content">
 <p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
 <header id="header" ><div id="headerContent">Apuntes OACE</div></header>
@@ -69,8 +69,8 @@
       <li><a href="6_mensajera_instantnea.html" class="no-ch">6: Mensajería Instantánea</a></li>
    </ul>
    </li>
-   <li class="current-page-parent"><a href="ud3_seguridad_informtica.html" class="current-page-parent daddy">UD3: Seguridad Informática</a>
-   <ul>
+   <li><a href="ud3_seguridad_informtica.html" class="daddy">UD3: Seguridad Informática</a>
+   <ul class="other-section">
       <li><a href="1_seguridad.html" class="daddy">1: Seguridad</a>
       <ul class="other-section">
          <li><a href="11_definicin.html" class="no-ch">1.1 Definición</a></li>
@@ -98,15 +98,15 @@
          <li><a href="54_medidas_organizativas.html" class="no-ch">5.4 Medidas organizativas</a></li>
       </ul>
       </li>
-      <li class="current-page-parent"><a href="6_ataques.html" class="current-page-parent daddy">6: Ataques</a>
-      <ul>
-         <li class="current-page-parent"><a href="61_ataques_mas_comunes_actualmente.html" class="current-page-parent daddy">6.1 Ataques mas comunes actualmente</a>
-         <ul>
+      <li><a href="6_ataques.html" class="daddy">6: Ataques</a>
+      <ul class="other-section">
+         <li><a href="61_ataques_mas_comunes_actualmente.html" class="daddy">6.1 Ataques mas comunes actualmente</a>
+         <ul class="other-section">
             <li><a href="62_dos.html" class="no-ch">6.2 DoS</a></li>
             <li><a href="63_spoofing.html" class="no-ch">6.3 Spoofing</a></li>
             <li><a href="64_phishing.html" class="no-ch">6.4 Phishing</a></li>
             <li><a href="65_sniffing.html" class="no-ch">6.5 Sniffing</a></li>
-            <li id="active"><a href="66_hijacking.html" class="active no-ch">6.6 Hijacking</a></li>
+            <li><a href="66_hijacking.html" class="no-ch">6.6 Hijacking</a></li>
             <li><a href="67_inyeccin_de_cdigo.html" class="no-ch">6.7 Inyección de código</a></li>
          </ul>
          </li>
@@ -173,9 +173,9 @@
       </li>
    </ul>
    </li>
-   <li><a href="ud6y7_windows_y_linux.html" class="daddy">UD6y7: Windows y Linux</a>
-   <ul class="other-section">
-      <li><a href="terminalconsola_linux.html" class="no-ch">Terminal/Consola Linux</a></li>
+   <li class="current-page-parent"><a href="ud6y7_windows_y_linux.html" class="current-page-parent daddy">UD6y7: Windows y Linux</a>
+   <ul>
+      <li id="active"><a href="terminalconsola_linux.html" class="active no-ch">Terminal/Consola Linux</a></li>
       <li><a href="comandos_en_linux.html" class="no-ch">Comandos en Linux</a></li>
       <li><a href="comandos_en_windows.html" class="no-ch">Comandos en Windows</a></li>
    </ul>
@@ -184,16 +184,25 @@
 </nav>
 <div id='topPagination'>
 <nav class="pagination noprt">
-<a href="65_sniffing.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="67_inyeccin_de_cdigo.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="ud6y7_windows_y_linux.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="comandos_en_linux.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <div id="main-wrapper">
 <section id="main">
-<header id="nodeDecoration"><h1 id="nodeTitle">6.6 Hijacking</h1></header>
-<article class="iDevice_wrapper textIdevice" id="id78">
+<header id="nodeDecoration"><h1 id="nodeTitle">Terminal/Consola Linux</h1></header>
+<article class="iDevice_wrapper textIdevice" id="id111">
 <div class="iDevice emphasis0" >
-<div id="ta78_115_2" class="block iDevice_content">
-<div class="exe-text"><p>El objetivo de esta técnica es sustituir la página de inicio del navegador por otra que le convenga al atacante. También se utiliza para generar visitas sobre un sitio, propagar spam, etc.</p></div>
+<div id="ta111_113_2" class="block iDevice_content">
+<div class="exe-text"><p cid="n6" mdtype="paragraph" class="md-end-block md-p md-focus"><span md-inline="plain" class="md-plain"><span md-inline="plain" class="md-plain md-expand">Lo que vemos en la imagen posterior se denomina </span><span md-inline="link" class="md-meta-i-c  md-link"><a spellcheck="false" href="https://es.wikipedia.org/wiki/Prompt">prompt</a></span><span md-inline="plain" class="md-plain md-expand">. A partir del mismo podemos obtener una información muy valiosa.</span></span></p>
+<p cid="n6" mdtype="paragraph" class="md-end-block md-p md-focus"><span md-inline="plain" class="md-plain"><span><img src="prompt_linux.PNG" width="256" height="100" alt="user" /></span></span></p>
+<p cid="n6" mdtype="paragraph" class="md-end-block md-p md-focus"><span md-inline="plain" class="md-plain"><span>En la imagen anterior tenemos el prompt de un usuario.</span></span></p>
+<p cid="n6" mdtype="paragraph" class="md-end-block md-p md-focus"><span md-inline="plain" class="md-plain"><img src="prompt_linux_root.PNG" width="280" height="53" alt="root" /></span></p>
+<p cid="n6" mdtype="paragraph" class="md-end-block md-p md-focus"><span md-inline="plain" class="md-plain">En la imagen anterior tenemos el prompt de root.</span></p>
+<p cid="n7" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">En ambas imágenes lo que aparece antes de la @ nos indica el </span><span md-inline="strong" class="md-pair-s "><strong><span md-inline="plain" class="md-plain">usuario con el que estamos trabajando</span></strong></span><span md-inline="plain" class="md-plain">. Si miramos las imágenes anteriores vemos que estamos conectados como pablo y root respectivamente.</span></p>
+<p cid="n8" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">Lo que aparece entre la @ y los : nos indica el </span><span md-inline="strong" class="md-pair-s "><strong><span md-inline="plain" class="md-plain">nombre de la máquina</span></strong></span><span md-inline="plain" class="md-plain"> </span><span md-inline="escape">(</span><span md-inline="plain" class="md-plain">computador</span><span md-inline="escape">)</span><span md-inline="plain" class="md-plain"> al que estamos conectados.</span></p>
+<p cid="n9" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">Lo que aparece entre los : y $ nos indica la </span><span md-inline="strong" class="md-pair-s "><strong><span md-inline="plain" class="md-plain">ruta en la que nos encontramos</span></strong></span><span md-inline="plain" class="md-plain">. Cuando aparece el símbolo ~ nos indica que estamos ubicados en el directorio personal del usuario, en el caso de la primera imagen nos indica que nos encontramos en /home/pablo. En la segunda imagen entre los : y la </span><span md-inline="escape">#</span><span md-inline="plain" class="md-plain"> aparece la ruta absoluta /home/pablo por lo que esa es la ruta en que nos encontramos.</span></p>
+<p cid="n10" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">Existe una diferencia mas entre ambas imágenes. En la primera imagen podemos apreciar que el último caracter del prompt es un $ mientras que en la segunda imagen aparece una </span><span md-inline="escape">#</span><span md-inline="plain" class="md-plain">. El $ nos indica que no estamos trabajando como root </span><span md-inline="escape">(</span><span md-inline="plain" class="md-plain">administrador</span><span md-inline="escape">)</span><span md-inline="plain" class="md-plain"> mientras que la </span><span md-inline="escape">#</span><span md-inline="plain" class="md-plain"> nos indica que estamos trabajando como root.</span></p>
+<p cid="n11" mdtype="paragraph" class="md-end-block md-p"><span md-inline="plain" class="md-plain">En este manual, en los ejemplos de comandos se utilizará el símbolo $ como antecesor de los comandos para indicar que son comandos que no requiere de root mientras que cuando un comando requiera ser ejecutado como root aparecerá precedido del símbolo </span><span md-inline="escape">#</span><span md-inline="plain" class="md-plain"> o bien aparecerá el símbolo $ seguido del comando sudo </span><span md-inline="escape">(</span><span md-inline="plain" class="md-plain">mas adelante veremos su utilidad</span><span md-inline="escape">)</span></p></div>
 </div>
 </div>
 </article>
@@ -204,7 +213,7 @@
 </div>
 <div id='bottomPagination'>
 <nav class="pagination noprt">
-<a href="65_sniffing.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="67_inyeccin_de_cdigo.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="ud6y7_windows_y_linux.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="comandos_en_linux.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 </div>

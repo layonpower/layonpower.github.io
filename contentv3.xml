@@ -85,9 +85,9 @@
   <string role="key" value="_name"></string>
   <unicode value="oace"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="111"></int>
+  <int value="113"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="94"></int>
+  <int value="97"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -272,7 +272,7 @@
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="278">
+      <instance class="exe.engine.node.Node" reference="287">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="UD1: AO / Presentaciones"></unicode>
@@ -2443,7 +2443,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="264"></int>
+                           <int value="276"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2457,7 +2457,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="11_115_2.26"></unicode>
+                         <unicode value="11_115_2.28"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="48">
                           <dictionary>
@@ -2468,7 +2468,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img0.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpqqayxs\\img0.png"></string>
+                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\img0.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="f647ca678bffc990bd12cad60d84d3c6"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2495,7 +2495,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="265"></int>
+                           <int value="277"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2509,7 +2509,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="11_115_2.27"></unicode>
+                         <unicode value="11_115_2.29"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="49">
                           <dictionary>
@@ -2520,7 +2520,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img1.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpqqayxs\\img1.png"></string>
+                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\img1.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="8b784590b7f644cf608656935d79e549"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2549,7 +2549,7 @@
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="28"></int>
+                    <int value="30"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="47"></reference>
                    </dictionary>
@@ -10193,7 +10193,7 @@
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="279">
+      <instance class="exe.engine.node.Node" reference="288">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="UD4: Multimedia"></unicode>
@@ -10348,7 +10348,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="268"></int>
+                        <int value="280"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -10362,7 +10362,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="80_110_2.3"></unicode>
+                      <unicode value="80_110_2.4"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="198">
                        <dictionary>
@@ -10373,7 +10373,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="SO_-_Relacion_usuario_SSOO.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpqqayxs\\SO_-_Relacion_usuario_SSOO.png"></string>
+                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\SO_-_Relacion_usuario_SSOO.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="059672c346661579860499e0acc6cdc5"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -10402,7 +10402,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="4"></int>
+                 <int value="5"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="197"></reference>
                 </dictionary>
@@ -11158,7 +11158,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="262"></int>
+                           <int value="274"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -11172,7 +11172,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="86_116_2.6"></unicode>
+                         <unicode value="86_116_2.7"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="212">
                           <dictionary>
@@ -11183,7 +11183,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img0.1.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpqqayxs\\img0.1.png"></string>
+                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\img0.1.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="fc9743c0973bea5f2a49d39ff3c58c04"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -11212,7 +11212,7 @@
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="7"></int>
+                    <int value="8"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="211"></reference>
                    </dictionary>
@@ -12455,7 +12455,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="263"></int>
+                           <int value="275"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -12469,7 +12469,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="99_115_2.3"></unicode>
+                         <unicode value="99_115_2.4"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="238">
                           <dictionary>
@@ -12480,7 +12480,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img0.2.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpqqayxs\\img0.2.png"></string>
+                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\img0.2.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="77205da02474858bdb45c4ab8a4420a8"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -12509,7 +12509,7 @@
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="4"></int>
+                    <int value="5"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="237"></reference>
                    </dictionary>
@@ -12667,7 +12667,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="266"></int>
+                           <int value="278"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -12681,7 +12681,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="100_116_2.3"></unicode>
+                         <unicode value="100_116_2.4"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="242">
                           <dictionary>
@@ -12692,7 +12692,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="linux_tree.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpqqayxs\\linux_tree.jpg"></string>
+                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\linux_tree.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="104fad12995c752583398b2474faa530"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -12721,7 +12721,7 @@
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="4"></int>
+                    <int value="5"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="241"></reference>
                    </dictionary>
@@ -13075,7 +13075,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="267"></int>
+                           <int value="270"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -13089,7 +13089,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="102_118_2.3"></unicode>
+                         <unicode value="102_118_2.5"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="249">
                           <dictionary>
@@ -13098,11 +13098,11 @@
                            <string role="key" value="_package"></string>
                            <reference key="1"></reference>
                            <string role="key" value="_storageName"></string>
-                           <string value="linux_tree.jpg"></string>
+                           <string value="Captura.PNG"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpqqayxs\\linux_tree.jpg"></string>
+                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\Captura.PNG"></string>
                            <string role="key" value="checksum"></string>
-                           <string value="104fad12995c752583398b2474faa530"></string>
+                           <string value="555c17438193ac08f29dbc808f3ae802"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                            <int value="2"></int>
                            <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -13127,7 +13127,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="269"></int>
+                           <int value="279"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -13141,7 +13141,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="102_118_2.4"></unicode>
+                         <unicode value="102_118_2.6"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="250">
                           <dictionary>
@@ -13150,11 +13150,11 @@
                            <string role="key" value="_package"></string>
                            <reference key="1"></reference>
                            <string role="key" value="_storageName"></string>
-                           <string value="Captura.PNG"></string>
+                           <string value="linux_tree.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmphnehzu.eXe\\previews\\Captura.PNG"></string>
+                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\linux_tree.jpg"></string>
                            <string role="key" value="checksum"></string>
-                           <string value="555c17438193ac08f29dbc808f3ae802"></string>
+                           <string value="104fad12995c752583398b2474faa530"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                            <int value="2"></int>
                            <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -13181,7 +13181,7 @@
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="5"></int>
+                    <int value="7"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="248"></reference>
                    </dictionary>
@@ -13353,7 +13353,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="259"></int>
+                        <int value="271"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -13367,7 +13367,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="103_110_2.2"></unicode>
+                      <unicode value="103_110_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="254">
                        <dictionary>
@@ -13378,7 +13378,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Dico_duro_estructura_f_C3_ADsica.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpqqayxs\\Dico_duro_estructura_f_C3_ADsica.png"></string>
+                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\Dico_duro_estructura_f_C3_ADsica.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="e785cac16404f072d20344a8aa04db59"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -13407,7 +13407,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="3"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="253"></reference>
                 </dictionary>
@@ -14103,7 +14103,7 @@
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="260"></int>
+                              <int value="272"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -14117,7 +14117,7 @@
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="107_114_2.2"></unicode>
+                            <unicode value="107_114_2.3"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="267">
                              <dictionary>
@@ -14128,7 +14128,7 @@
                               <string role="key" value="_storageName"></string>
                               <string value="Disco_duro_estructura_l_C3_B3gica.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpqqayxs\\Disco_duro_estructura_l_C3_B3gica.png"></string>
+                              <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\Disco_duro_estructura_l_C3_B3gica.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="360983074a08b2254054ac26fb458507"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -14157,7 +14157,7 @@
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="3"></int>
+                       <int value="4"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="266"></reference>
                       </dictionary>
@@ -14314,7 +14314,7 @@
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="261"></int>
+                              <int value="273"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -14328,7 +14328,7 @@
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="110_115_2.1"></unicode>
+                            <unicode value="110_115_2.2"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="271">
                              <dictionary>
@@ -14339,7 +14339,7 @@
                               <string role="key" value="_storageName"></string>
                               <string value="guid.PNG"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpqqayxs\\guid.PNG"></string>
+                              <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\guid.PNG"></string>
                               <string role="key" value="checksum"></string>
                               <string value="4758d1de838bfe94c0e491f2d928c9fd"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -14368,7 +14368,7 @@
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="2"></int>
+                       <int value="3"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="270"></reference>
                       </dictionary>
@@ -14786,7 +14786,7 @@
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="280">
+      <instance class="exe.engine.node.Node" reference="283">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="UD6y7: Windows y Linux"></unicode>
@@ -14809,7 +14809,754 @@
         <string role="key" value="top_anchors_linked_from_fields"></string>
         <list></list>
         <string role="key" value="children"></string>
-        <list></list>
+        <list>
+         <instance class="exe.engine.node.Node" reference="280">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Terminal/Consola Linux"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="278">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="279">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="113_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="278"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p cid=&quot;n6&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain md-expand&quot;&gt;Lo que vemos en la imagen posterior se denomina &lt;/span&gt;&lt;span md-inline=&quot;link&quot; class=&quot;md-meta-i-c  md-link&quot;&gt;&lt;a spellcheck=&quot;false&quot; href=&quot;https://es.wikipedia.org/wiki/Prompt&quot;&gt;prompt&lt;/a&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain md-expand&quot;&gt;. A partir del mismo podemos obtener una información muy valiosa.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n6&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;&lt;span&gt;&lt;img src=&quot;resources/prompt_linux.PNG&quot; width=&quot;256&quot; height=&quot;100&quot; alt=&quot;user&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n6&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;&lt;span&gt;En la imagen anterior tenemos el prompt de un usuario.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n6&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;&lt;img src=&quot;resources/prompt_linux_root.PNG&quot; width=&quot;280&quot; height=&quot;53&quot; alt=&quot;root&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n6&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;En la imagen anterior tenemos el prompt de root.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n7&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;En ambas imágenes lo que aparece antes de la @ nos indica el &lt;/span&gt;&lt;span md-inline=&quot;strong&quot; class=&quot;md-pair-s &quot;&gt;&lt;strong&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;usuario con el que estamos trabajando&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;. Si miramos las imágenes anteriores vemos que estamos conectados como pablo y root respectivamente.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n8&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Lo que aparece entre la @ y los : nos indica el &lt;/span&gt;&lt;span md-inline=&quot;strong&quot; class=&quot;md-pair-s &quot;&gt;&lt;strong&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;nombre de la máquina&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;computador&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; al que estamos conectados.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n9&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Lo que aparece entre los : y $ nos indica la &lt;/span&gt;&lt;span md-inline=&quot;strong&quot; class=&quot;md-pair-s &quot;&gt;&lt;strong&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;ruta en la que nos encontramos&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;. Cuando aparece el símbolo ~ nos indica que estamos ubicados en el directorio personal del usuario, en el caso de la primera imagen nos indica que nos encontramos en /home/pablo. En la segunda imagen entre los : y la &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;#&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; aparece la ruta absoluta /home/pablo por lo que esa es la ruta en que nos encontramos.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n10&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Existe una diferencia mas entre ambas imágenes. En la primera imagen podemos apreciar que el último caracter del prompt es un $ mientras que en la segunda imagen aparece una &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;#&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;. El $ nos indica que no estamos trabajando como root &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;administrador&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; mientras que la &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;#&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; nos indica que estamos trabajando como root.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n11&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;En este manual, en los ejemplos de comandos se utilizará el símbolo $ como antecesor de los comandos para indicar que son comandos que no requiere de root mientras que cuando un comando requiera ser ejecutado como root aparecerá precedido del símbolo &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;#&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; o bien aparecerá el símbolo $ seguido del comando sudo &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;mas adelante veremos su utilidad&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="281"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="111_113_2.0"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="281">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="278"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="1"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="prompt_linux.PNG"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzesgkh.eXe\\previews\\prompt_linux.PNG"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="bade8a57b17f8608efc6dd0bd90658f5"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="279"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="282"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="111_113_2.1"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="282">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="278"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="1"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="prompt_linux_root.PNG"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzesgkh.eXe\\previews\\prompt_linux_root.PNG"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="ea0811f7852b1eac04fe6f13c955cd8e"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="279"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                   </list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="279"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="2"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="280"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="111"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="280"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list>
+               <reference key="281"></reference>
+               <reference key="282"></reference>
+              </list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="96"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="1"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Apuntes%20OACE:UD6y7%3A%20Windows%20y%20Linux:Terminal/Consola%20Linux"></string>
+           <string role="key" value="parent"></string>
+           <reference key="283"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="286">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Comandos en Linux"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="284">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="285">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="114_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="284"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h1 cid=&quot;n0&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Comandos generales&lt;/span&gt;&lt;/h1&gt;
+&lt;p cid=&quot;n2&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Recopilación de los comandos generales trabajados en clase:&lt;/span&gt;&lt;/p&gt;
+&lt;h2 cid=&quot;n3&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;varios&lt;/span&gt;&lt;/h2&gt;
+&lt;p cid=&quot;n4&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Antes de entrar a ver los comandos con los que vamos a trabajar en clase vamos a ver una serie de utilidades que pueden hacer que nuestra experiencia de uso del terminal resulte mas agradable y productiva.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n5&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Concatenar comandos &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n6&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Nos permite ejecutar un comando a continuación de otro siempre y cuando el comando anterior no produzca ningún error.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n7&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n8&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ comando1 &amp;amp;&amp;amp; comando2&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n9&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Se ejecutaría el comando1 y a continuación el comando2 si no existe ningún error al ejecutar comando1&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n10&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n11&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ service apache2 stop &amp;amp;&amp;amp; service apache2 start&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n12&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Se detendría el servicio apache2 y a continuación se arrancaría el servicio apache2&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n13&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Redirigir la salida &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;html_entity&quot; data-content=&quot;&amp;gt;&quot; class=&quot;md-entity&quot; style=&quot;box-sizing: border-box;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n14&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Cuando ejecutamos un comando este puede producir &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;o no&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; una salida.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n15&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n16&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ls&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n17&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Produce una salida en la que nos muestra en pantalla el contenido del directorio actual.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n18&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Por defecto esta salida, se denomina salida estandar, es mostrada en pantalla. Podemos redirigir la salida a donde nos interese con &lt;/span&gt;&lt;span md-inline=&quot;html_entity&quot; data-content=&quot;&amp;gt;&quot; class=&quot;md-entity&quot; style=&quot;box-sizing: border-box;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n19&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n20&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ls &lt;/span&gt;&lt;span md-inline=&quot;html_entity&quot; data-content=&quot;&amp;gt;&quot; class=&quot;md-entity&quot; style=&quot;box-sizing: border-box;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; fichero.txt&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n21&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;El comando anterior no nos mostrará nada en pantalla y lo que debería de haber mostrado por pantalla lo escribirá en un fichero llamado fichero.txt Si el fichero tenía contenido borrará el contenido y escribirá la salida. Si el fichero no existía lo creará &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;si tiene permiso&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; y escribirá en él la salida.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n22&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n23&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ls &lt;/span&gt;&lt;span md-inline=&quot;html_entity&quot; data-content=&quot;&amp;gt;&quot; class=&quot;md-entity&quot; style=&quot;box-sizing: border-box;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span md-inline=&quot;html_entity&quot; data-content=&quot;&amp;gt;&quot; class=&quot;md-entity&quot; style=&quot;box-sizing: border-box;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; fichero.txt&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n24&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Funciona de un modo parecido al anterior pero en esta ocasión no borrará el contenido del fichero fichero.txt sino que agregará al contenido del fichero el resultado de esta nueva ejecución.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n25&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Un comando, al igual que una salida de resultado nos puede mostrar una salida de error que también podemos redirigir. Para ello, en vez de &lt;/span&gt;&lt;span md-inline=&quot;html_entity&quot; data-content=&quot;&amp;gt;&quot; class=&quot;md-entity&quot; style=&quot;box-sizing: border-box;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; deberemos de usar 2&lt;/span&gt;&lt;span md-inline=&quot;html_entity&quot; data-content=&quot;&amp;gt;&quot; class=&quot;md-entity&quot; style=&quot;box-sizing: border-box;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n26&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n27&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ls 2&lt;/span&gt;&lt;span md-inline=&quot;html_entity&quot; data-content=&quot;&amp;gt;&quot; class=&quot;md-entity&quot; style=&quot;box-sizing: border-box;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; fichero.err.txt&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n28&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Tras la ejecución del comando anterior veremos por pantalla el resultado de ejecutar el comando y en caso de existir algún error durante la ejecución se escribirá en el fichero fichero.err.txt Al igual que en el caso anterior tenemos la posibilidad de no sobreescribir el contenido del fichero sino de añadir contenido, para ello utilizaremos 2&lt;/span&gt;&lt;span md-inline=&quot;html_entity&quot; data-content=&quot;&amp;gt;&quot; class=&quot;md-entity&quot; style=&quot;box-sizing: border-box;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span md-inline=&quot;html_entity&quot; data-content=&quot;&amp;gt;&quot; class=&quot;md-entity&quot; style=&quot;box-sizing: border-box;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n29&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;También tenemos la posibilidad de usar la redirección en la otra dirección, vamos a ver un ejemplo&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n30&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n31&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ wc &lt;/span&gt;&lt;span md-inline=&quot;html_entity&quot; data-content=&quot;&amp;lt;&quot; class=&quot;md-entity&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; fichero.txt&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n32&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;El comando wc nos muestra la cantidad de palabras que aparecen a continuación. En este caso nos indicará la cantidad de palabras que existen en el fichero llamado fichero.txt&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n33&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Algo muy habitual es redirigir la salida de errores a ningún lugar, para ello haríamos&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n34&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n35&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ls 2&lt;/span&gt;&lt;span md-inline=&quot;html_entity&quot; data-content=&quot;&amp;gt;&quot; class=&quot;md-entity&quot; style=&quot;box-sizing: border-box;&quot;&gt;&amp;gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; /dev/null&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 cid=&quot;n36&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Tubería &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;|&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n37&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Nos permite redirigir la salida estandar de un comando a la entrada de otro. Por ejemplo:&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n38&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n39&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ps -aux &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;|&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; grep apache2&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n40&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;ps -aux&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; nos devuelve un listado de procesos en ejecución, ese listado se le facilita al comando grep que lo que hace es buscar la palabra apache2 en lo que ps -aux le ofrece.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n41&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n42&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ cat fichero.txt &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;|&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; wc&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n43&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;El comando cat escribe por pantalla en contenido del fichero que se le facilita como parámetros a continuación. En este caso, en lugar de escribirlo por pantalla se lo facilitará al comando wc &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;que sirve para contar palabras&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; por lo que tras ejecutar el comando anterior obtendremos el total de palabras que contiene fichero.txt&lt;/span&gt;&lt;/p&gt;
+&lt;h2 cid=&quot;n44&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Comandos&lt;/span&gt;&lt;/h2&gt;
+&lt;h3 cid=&quot;n45&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;pwd&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n46&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Nos indica la ruta en que nos encontramos&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n47&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n48&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ pwd&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 cid=&quot;n49&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;cd&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n50&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Sirve para cambiar al directorio que facilitemos como argumento o si no facilitamos argumento nos redirige al directorio personal&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n51&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n52&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ cd&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n53&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Redirige al directorio personal del usuario&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n54&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n55&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ cd /home/alumno/Desktop&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n56&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Cambia el directorio actual a /home/alumno/Desktop&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n57&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n58&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ cd Desktop&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n59&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Cambia el directorio actual al directorio Desktop de la carpeta en que nos encontremos&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n60&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;mkdir&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n61&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Nos permite crear directorios&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n62&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n63&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ mkdir /home/alumno/examenes&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n64&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Crea el directorio examenes en la ruta /home/alumno&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n65&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n66&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ mkdir trabajos&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n67&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Crea el directorio trabajos en la ruta en que nos encontremos&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n68&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;touch&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n69&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Sirve para crear archivos vacíos&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n70&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n71&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ touch /home/alumno/examenes/lengua&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n72&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Crea un fichero vacío llamado lengua dentro de la ruta /home/alumno/examenes&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n73&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n74&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ touch trabajoDeLengua&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n75&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Crea un fichero vacío llamado trabajoDeLengua dentro de la carpeta en que nos encontremos&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n76&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;rm&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n77&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Borra archivos o directorios&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n78&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n79&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ rm /home/alumno/configuracion.bckup&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 cid=&quot;n80&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;rmdir&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n81&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Borra directorios vacíos&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n82&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n83&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ rmdir /home/alumno/directorioVacio&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 cid=&quot;n84&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;ls&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n85&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Nos permite listar el contenido de un directorio. Veremos también sus variantes &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;ls -l&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;, &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;ls -a&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; y &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;ll&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n86&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n87&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ls&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n88&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Lista el contenido del directorio en que nos encontremos&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n89&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n90&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ls /home/alumno&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n91&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Lista el contenido del directorio /home/alumno&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n92&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n93&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ls Descargas&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n94&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Lista el contenido del directorio Descargas &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;que esté dentro de la ruta en que nos encontremos&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n95&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n96&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ls -l&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n97&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Lista en modo ¿detallado o columnas? el directorio en que nos encontremos. También se le pueden facilitar como argumentos rutas absolutas o relativas.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n98&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n99&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ls -a&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n100&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Lista todo el contenido &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;incluyendo ficheros ocultos&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; del directorio en que nos encontremos. También se le puede facilitar como argumentos una ruta absoluta o relativa.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n101&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n102&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ll&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n103&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Lista el contenido &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;incluyendo ficheros ocultos&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; del directorio en que nos encontremos y además muestra la información relativa a permisos, propietarios, tamaño y fecha de creación. En la sección de permisos hay mas información.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n104&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;whoami&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n105&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Nos muestra el usuario con el que estamos trabajando. Algo que si tenemos configurado bash por defecto se puede ver en el prompt como vimos en el apartado terminal/consola.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n106&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n107&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ whoami&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 cid=&quot;n108&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;su&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n109&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Permite cambiar de usuario&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n110&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n111&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ su profesor&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n112&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Cambia del usuario actual al usuario profesor&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n113&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n114&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ sudo su&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n115&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Cambiamos al usuario administrador &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;root&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;. Generalmente no es recomendable hacer esto &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;consultar el apartado posterior&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n116&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;sudo&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n117&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;En la wikipedia obtenemos la siguiente explicación de &lt;/span&gt;&lt;span md-inline=&quot;link&quot; class=&quot;md-meta-i-c  md-link&quot;&gt;&lt;a spellcheck=&quot;false&quot; href=&quot;https://es.wikipedia.org/wiki/Sudo&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;sudo&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;:&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n118&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n119&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;El programa sudo &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;del inglés super user do&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; es una utilidad de los sistemas operativos tipo Unix, como Linux, BSD, o Mac OS X, que permite a los usuarios ejecutar programas con los privilegios de seguridad de otro usuario &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;normalmente el usuario root&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; de manera segura, convirtiéndose así temporalmente en superusuario. Se instala por defecto en /usr/bin.&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n120&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;En el apartado anterior ya vimos como utilizar este comando para convertirnos en usuarios administradores de forma permanente. En la medida de lo posible evitaremos ese uso y trabajaremos como usuarios normales anteponiendo sudo cuando de forma consciente queramos ejecutar un determinado comando como root.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n121&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n122&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ sudo chmod 740 fichero&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n123&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Como root ejecutamos el comando chmod &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;para el resto de valores consultar sección Permisos&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n124&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;man&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n125&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Muestra la ayuda del comando que se indique a continuación.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n126&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n127&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ man cat&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n128&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Muestra la ayuda del comando cat&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n129&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n130&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ man nano&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n131&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Muestra la ayuda del comando nano&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n132&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Para salir de la ayuda se presiona la tecla q.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n133&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;top&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n134&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Muestra un resumen detallado del estado actual de la máquina en relación al consumo de sus recursos hardware y sus procesos&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n135&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n136&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ top&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n137&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Para salir se presiona la tecla q.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n138&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;nano&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n139&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Abre un editor de texto&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n140&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n141&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ nano manual&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n142&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Abre el editor de texto con el contenido del fichero manual. En caso de no existir el fichero lo creará.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n143&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Para guardar el contenido tras modificar el fichero pulsaremos &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;control + o&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; y para salir del editor pusaremos &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;control + x&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n144&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;cat&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n145&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Muestra el contenido de un fichero.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n146&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n147&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ cat manual&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 cid=&quot;n148&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;grep&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n149&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Dibuja las líneas que coinciden con un determinado patrón.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n150&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n151&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ cat manual &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;|&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; grep gato&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n152&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Marca todas las líneas del fichero manual que contengan la palabra gato.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n153&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;ifconfig&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n154&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Nos muestra la configuración de red.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n155&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n156&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ifconfig&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n157&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Añadir imagen del resultado&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n158&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;ping&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n159&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Envía un paquete a la ip de destino. Nos sirve para saber si en una determinada IP hay un equipo a la escucha.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n160&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n161&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ping 192.168.4.100&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n162&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Si obtenemos respuesta sabremos que en esa IP hay una máquina&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n163&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;shutdown&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n164&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Apaga la máquina.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n165&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n166&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ shutdown&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 cid=&quot;n167&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;reboot&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n168&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Reinicia la máquina.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n169&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n170&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ reboot&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 cid=&quot;n171&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;apt-get&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n172&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Nos permite gestionar los paquetes de la máquina. Es una tarea que deberemos hacer como administradores.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n173&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n174&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ sudo apt-get update&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n175&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Actualiza los repositorios del equipo.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n176&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n177&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ sudo apt-get upgrade&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n178&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Actualiza los paquetes instalados en el equipo&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n179&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n180&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ sudo apt-get install apache2&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n181&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Descargará, instalará y configurará el paquete apache2 junto con las dependencias que tenga el paquete.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n182&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n183&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ sudo apt-get remove apache2&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n184&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Desinstalará el paquete apache2&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n185&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;ssh&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n186&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Nos permite conectarnos a otra máquina. La sintaxis es la siguiente:&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n187&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n188&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ssh usuario@ip&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;_&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;dstino&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n189&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Por ejemplo&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n190&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n191&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ssh alumno@192.168.7.101&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 cid=&quot;n192&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;service&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n193&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Nos permite iniciar, parar o reiniciar un servicio de la máquina. La sintaxis es la siguiente:&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n194&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n195&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ service nombre&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;_&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;servicio start&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;|&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;stop&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n196&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Por ejemplo:&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n197&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n198&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ service apache2 start&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n199&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Arranca el servicio apache2 &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;servidor web&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n200&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n201&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ service proftpd stop&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n202&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Detiene el servicio proftpd &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;servidor de FTP&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n203&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;ifup&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n204&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Nos permite activar una determinada interface de red.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n205&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n206&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ sudo ifup eth0&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n207&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Activa la interface denominada eth0 &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;interface cableada&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n208&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;ifdown&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n209&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Nos permite desactivar una determinada interface de red&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n210&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n211&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ sudo ifdown wlan0&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n212&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Desactiva la interface denominada wlan0 &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;interface wireless&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n213&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;ps&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n214&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Muestra un listado de los procesos en ejecución&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n215&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n216&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ps -aux&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n217&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Podemos combinarlo con grep para facilitarnos la búsqueda de un determinado servicio&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n218&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n219&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ ps -aux &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;|&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; grep apache2&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 cid=&quot;n220&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;pidof&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n221&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Nos devuelve el identificador del proceso &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;(&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;pid&lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;)&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; del servicio que solicitemos&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n222&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n223&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ pidof apache2&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 cid=&quot;n224&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;kill&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n225&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Mata procesos.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n226&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n227&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ kill -9 pid&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n228&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Mata el proceso del cual pongamos su pid. Es decir, no se escribe pid sino que se escribe el identificador del proceso.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n229&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;killall&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n230&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Mata procesos por su nombre.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n231&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n232&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ killall apache2&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n233&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Mata todos los procesos de apache2.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n234&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n235&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ killall tail&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n236&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Mata todos los procesos que estén ejecutando tail.&lt;/span&gt;&lt;/p&gt;
+&lt;h3 cid=&quot;n237&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;df&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n238&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Muestra el espacio en disco. Lo ejecutaremos con el modificar &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;-h&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; para que la información que veamos resulte mas legible.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n239&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n240&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ df -h&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 cid=&quot;n241&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;exit&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n242&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Cierra la sesión actual.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n243&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n244&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ exit&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="285"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <none></none>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="112"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="286"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="94"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="1"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Apuntes%20OACE:UD6y7%3A%20Windows%20y%20Linux:Comandos%20en%20Linux"></string>
+           <string role="key" value="parent"></string>
+           <reference key="283"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="289">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="Comandos en Windows"></unicode>
+           <string role="key" value="idevices"></string>
+           <list></list>
+           <string role="key" value="_id"></string>
+           <unicode value="95"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="1"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Apuntes%20OACE:UD6y7%3A%20Windows%20y%20Linux:Comandos%20en%20Windows"></string>
+           <string role="key" value="parent"></string>
+           <reference key="283"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+        </list>
        </dictionary>
       </instance>
      </list>
@@ -14818,7 +15565,7 @@
    <unicode role="key" value="1"></unicode>
    <reference key="6"></reference>
    <unicode role="key" value="10"></unicode>
-   <reference key="278"></reference>
+   <reference key="287"></reference>
    <unicode role="key" value="11"></unicode>
    <reference key="94"></reference>
    <unicode role="key" value="12"></unicode>
@@ -14936,11 +15683,11 @@
    <unicode role="key" value="63"></unicode>
    <reference key="170"></reference>
    <unicode role="key" value="64"></unicode>
-   <reference key="279"></reference>
+   <reference key="288"></reference>
    <unicode role="key" value="65"></unicode>
    <reference key="199"></reference>
    <unicode role="key" value="66"></unicode>
-   <reference key="280"></reference>
+   <reference key="283"></reference>
    <unicode role="key" value="67"></unicode>
    <reference key="197"></reference>
    <unicode role="key" value="68"></unicode>
@@ -14997,6 +15744,12 @@
    <reference key="274"></reference>
    <unicode role="key" value="93"></unicode>
    <reference key="277"></reference>
+   <unicode role="key" value="94"></unicode>
+   <reference key="286"></reference>
+   <unicode role="key" value="95"></unicode>
+   <reference key="289"></reference>
+   <unicode role="key" value="96"></unicode>
+   <reference key="280"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -15009,7 +15762,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="248"></reference>
+  <reference key="280"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -16258,7 +17011,7 @@
    <string role="key" value="104fad12995c752583398b2474faa530"></string>
    <list>
     <reference key="242"></reference>
-    <reference key="249"></reference>
+    <reference key="250"></reference>
    </list>
    <string role="key" value="360983074a08b2254054ac26fb458507"></string>
    <list>
@@ -16270,7 +17023,7 @@
    </list>
    <string role="key" value="555c17438193ac08f29dbc808f3ae802"></string>
    <list>
-    <reference key="250"></reference>
+    <reference key="249"></reference>
    </list>
    <string role="key" value="77205da02474858bdb45c4ab8a4420a8"></string>
    <list>
@@ -16280,9 +17033,17 @@
    <list>
     <reference key="49"></reference>
    </list>
+   <string role="key" value="bade8a57b17f8608efc6dd0bd90658f5"></string>
+   <list>
+    <reference key="281"></reference>
+   </list>
    <string role="key" value="e785cac16404f072d20344a8aa04db59"></string>
    <list>
     <reference key="254"></reference>
+   </list>
+   <string role="key" value="ea0811f7852b1eac04fe6f13c955cd8e"></string>
+   <list>
+    <reference key="282"></reference>
    </list>
    <string role="key" value="f647ca678bffc990bd12cad60d84d3c6"></string>
    <list>
