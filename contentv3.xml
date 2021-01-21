@@ -85,9 +85,9 @@
   <string role="key" value="_name"></string>
   <unicode value="oace"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="113"></int>
+  <int value="115"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="97"></int>
+  <int value="98"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -272,7 +272,7 @@
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="287">
+      <instance class="exe.engine.node.Node" reference="292">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="UD1: AO / Presentaciones"></unicode>
@@ -2443,7 +2443,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="276"></int>
+                           <int value="289"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2457,7 +2457,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="11_115_2.28"></unicode>
+                         <unicode value="11_115_2.30"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="48">
                           <dictionary>
@@ -2468,7 +2468,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img0.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\img0.png"></string>
+                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmp7vzlhe\\img0.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="f647ca678bffc990bd12cad60d84d3c6"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2495,7 +2495,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="277"></int>
+                           <int value="290"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2509,7 +2509,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="11_115_2.29"></unicode>
+                         <unicode value="11_115_2.31"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="49">
                           <dictionary>
@@ -2520,7 +2520,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img1.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\img1.png"></string>
+                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmp7vzlhe\\img1.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="8b784590b7f644cf608656935d79e549"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2549,7 +2549,7 @@
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="30"></int>
+                    <int value="32"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="47"></reference>
                    </dictionary>
@@ -10193,7 +10193,7 @@
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="288">
+      <instance class="exe.engine.node.Node" reference="293">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="UD4: Multimedia"></unicode>
@@ -10348,7 +10348,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="280"></int>
+                        <int value="295"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -10362,7 +10362,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="80_110_2.4"></unicode>
+                      <unicode value="80_110_2.5"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="198">
                        <dictionary>
@@ -10373,7 +10373,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="SO_-_Relacion_usuario_SSOO.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\SO_-_Relacion_usuario_SSOO.png"></string>
+                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmp7vzlhe\\SO_-_Relacion_usuario_SSOO.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="059672c346661579860499e0acc6cdc5"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -10402,7 +10402,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="5"></int>
+                 <int value="6"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="197"></reference>
                 </dictionary>
@@ -11158,7 +11158,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="274"></int>
+                           <int value="287"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -11172,7 +11172,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="86_116_2.7"></unicode>
+                         <unicode value="86_116_2.8"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="212">
                           <dictionary>
@@ -11183,7 +11183,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img0.1.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\img0.1.png"></string>
+                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmp7vzlhe\\img0.1.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="fc9743c0973bea5f2a49d39ff3c58c04"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -11212,7 +11212,7 @@
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="8"></int>
+                    <int value="9"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="211"></reference>
                    </dictionary>
@@ -12455,7 +12455,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="275"></int>
+                           <int value="288"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -12469,7 +12469,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="99_115_2.4"></unicode>
+                         <unicode value="99_115_2.5"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="238">
                           <dictionary>
@@ -12480,7 +12480,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="img0.2.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\img0.2.png"></string>
+                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmp7vzlhe\\img0.2.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="77205da02474858bdb45c4ab8a4420a8"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -12509,7 +12509,7 @@
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="5"></int>
+                    <int value="6"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="237"></reference>
                    </dictionary>
@@ -12667,7 +12667,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="278"></int>
+                           <int value="291"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -12681,7 +12681,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="100_116_2.4"></unicode>
+                         <unicode value="100_116_2.5"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="242">
                           <dictionary>
@@ -12692,7 +12692,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="linux_tree.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\linux_tree.jpg"></string>
+                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmp7vzlhe\\linux_tree.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="104fad12995c752583398b2474faa530"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -12721,7 +12721,7 @@
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="5"></int>
+                    <int value="6"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="241"></reference>
                    </dictionary>
@@ -13075,7 +13075,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="270"></int>
+                           <int value="283"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -13089,7 +13089,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="102_118_2.5"></unicode>
+                         <unicode value="102_118_2.7"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="249">
                           <dictionary>
@@ -13100,7 +13100,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="Captura.PNG"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\Captura.PNG"></string>
+                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmp7vzlhe\\Captura.PNG"></string>
                            <string role="key" value="checksum"></string>
                            <string value="555c17438193ac08f29dbc808f3ae802"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -13127,7 +13127,7 @@
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="279"></int>
+                           <int value="292"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -13141,7 +13141,7 @@
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="102_118_2.6"></unicode>
+                         <unicode value="102_118_2.8"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="250">
                           <dictionary>
@@ -13152,7 +13152,7 @@
                            <string role="key" value="_storageName"></string>
                            <string value="linux_tree.jpg"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\linux_tree.jpg"></string>
+                           <string value="c:\\users\\leon\\appdata\\local\\temp\\tmp7vzlhe\\linux_tree.jpg"></string>
                            <string role="key" value="checksum"></string>
                            <string value="104fad12995c752583398b2474faa530"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -13181,7 +13181,7 @@
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="7"></int>
+                    <int value="9"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="248"></reference>
                    </dictionary>
@@ -13353,7 +13353,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="271"></int>
+                        <int value="284"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -13367,7 +13367,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="103_110_2.3"></unicode>
+                      <unicode value="103_110_2.4"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="254">
                        <dictionary>
@@ -13378,7 +13378,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Dico_duro_estructura_f_C3_ADsica.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\Dico_duro_estructura_f_C3_ADsica.png"></string>
+                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmp7vzlhe\\Dico_duro_estructura_f_C3_ADsica.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="e785cac16404f072d20344a8aa04db59"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -13407,7 +13407,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="4"></int>
+                 <int value="5"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="253"></reference>
                 </dictionary>
@@ -14103,7 +14103,7 @@
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="272"></int>
+                              <int value="285"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -14117,7 +14117,7 @@
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="107_114_2.3"></unicode>
+                            <unicode value="107_114_2.4"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="267">
                              <dictionary>
@@ -14128,7 +14128,7 @@
                               <string role="key" value="_storageName"></string>
                               <string value="Disco_duro_estructura_l_C3_B3gica.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\Disco_duro_estructura_l_C3_B3gica.png"></string>
+                              <string value="c:\\users\\leon\\appdata\\local\\temp\\tmp7vzlhe\\Disco_duro_estructura_l_C3_B3gica.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="360983074a08b2254054ac26fb458507"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -14157,7 +14157,7 @@
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="4"></int>
+                       <int value="5"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="266"></reference>
                       </dictionary>
@@ -14314,7 +14314,7 @@
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="273"></int>
+                              <int value="286"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -14328,7 +14328,7 @@
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="110_115_2.2"></unicode>
+                            <unicode value="110_115_2.3"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="271">
                              <dictionary>
@@ -14339,7 +14339,7 @@
                               <string role="key" value="_storageName"></string>
                               <string value="guid.PNG"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzx4ptt\\guid.PNG"></string>
+                              <string value="c:\\users\\leon\\appdata\\local\\temp\\tmp7vzlhe\\guid.PNG"></string>
                               <string role="key" value="checksum"></string>
                               <string value="4758d1de838bfe94c0e491f2d928c9fd"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -14368,7 +14368,7 @@
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="3"></int>
+                       <int value="4"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="270"></reference>
                       </dictionary>
@@ -14887,6 +14887,8 @@
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p cid=&quot;n6&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain md-expand&quot;&gt;Lo que vemos en la imagen posterior se denomina &lt;/span&gt;&lt;span md-inline=&quot;link&quot; class=&quot;md-meta-i-c  md-link&quot;&gt;&lt;a spellcheck=&quot;false&quot; href=&quot;https://es.wikipedia.org/wiki/Prompt&quot;&gt;prompt&lt;/a&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain md-expand&quot;&gt;. A partir del mismo podemos obtener una información muy valiosa.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p cid=&quot;n6&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;&lt;span&gt;&lt;img src=&quot;resources/prompt_linux.PNG&quot; width=&quot;256&quot; height=&quot;100&quot; alt=&quot;user&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -14917,7 +14919,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="281"></int>
+                        <int value="293"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -14931,7 +14933,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="111_113_2.0"></unicode>
+                      <unicode value="113_113_2.2"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="281">
                        <dictionary>
@@ -14942,7 +14944,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="prompt_linux.PNG"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzesgkh.eXe\\previews\\prompt_linux.PNG"></string>
+                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmp7vzlhe\\prompt_linux.PNG"></string>
                         <string role="key" value="checksum"></string>
                         <string value="bade8a57b17f8608efc6dd0bd90658f5"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -14969,7 +14971,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="282"></int>
+                        <int value="294"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -14983,7 +14985,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="111_113_2.1"></unicode>
+                      <unicode value="113_113_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="282">
                        <dictionary>
@@ -14994,7 +14996,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="prompt_linux_root.PNG"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpzesgkh.eXe\\previews\\prompt_linux_root.PNG"></string>
+                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmp7vzlhe\\prompt_linux_root.PNG"></string>
                         <string role="key" value="checksum"></string>
                         <string value="ea0811f7852b1eac04fe6f13c955cd8e"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -15023,7 +15025,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="2"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="280"></reference>
                 </dictionary>
@@ -15032,7 +15034,7 @@
               <string role="key" value="icon"></string>
               <unicode value=""></unicode>
               <string role="key" value="id"></string>
-              <unicode value="111"></unicode>
+              <unicode value="113"></unicode>
               <string role="key" value="ideviceCategory"></string>
               <unicode value="Text and Tasks"></unicode>
               <string role="key" value="lastIdevice"></string>
@@ -15154,6 +15156,8 @@
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h1 cid=&quot;n0&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Comandos generales&lt;/span&gt;&lt;/h1&gt;
 &lt;p cid=&quot;n2&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Recopilación de los comandos generales trabajados en clase:&lt;/span&gt;&lt;/p&gt;
@@ -15454,10 +15458,30 @@
 &lt;blockquote cid=&quot;n239&quot; mdtype=&quot;blockquote&quot;&gt;
 &lt;p cid=&quot;n240&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ df -h&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h3 cid=&quot;n241&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;cp&lt;/span&gt;&lt;/h3&gt;
+&lt;p cid=&quot;n242&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Copia una o más archivos de una ruta a otra&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n243&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n244&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ cp test copy/test.bak&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h3 cid=&quot;n241&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;exit&lt;/span&gt;&lt;/h3&gt;
 &lt;p cid=&quot;n242&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Cierra la sesión actual.&lt;/span&gt;&lt;/p&gt;
 &lt;blockquote cid=&quot;n243&quot; mdtype=&quot;blockquote&quot;&gt;
 &lt;p cid=&quot;n244&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ exit&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 cid=&quot;n0&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Comodines de búsqueda&lt;/span&gt;&lt;/h1&gt;
+&lt;p cid=&quot;n2&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain md-expand&quot;&gt;Los comodines de búsqueda nos ayudan en la búsqueda y filtrado de ficheros. Junto con las expresiones regulares son una potente herramienta que nos proporciona el sistema operativo. Vamos a ver a continuación que caracteres son caracteres comodín y como usarlos.&lt;/span&gt;&lt;/p&gt;
+&lt;h2 cid=&quot;n3&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Carácter &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;*&lt;/span&gt;&lt;/h2&gt;
+&lt;blockquote cid=&quot;n243&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n4&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;El caracter &lt;/span&gt;&lt;span md-inline=&quot;escape&quot;&gt;*&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; sustituye a cualquier cadena de caracteres incluída la cadena vacía.&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 cid=&quot;n6&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Carácter ?&lt;/span&gt;&lt;/h2&gt;
+&lt;blockquote cid=&quot;n243&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n7&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;El carácter ? sustituye a 1 único carácter.&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n7&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n7&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;&lt;strong&gt;Web de referencia de comandos&lt;/strong&gt; &lt;a href=&quot;https://ss64.com/&quot;&gt;https://ss64.com/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n243&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n244&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p md-focus&quot;&gt;&lt;/p&gt;
 &lt;/blockquote&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
@@ -15481,14 +15505,14 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <none></none>
+                 <reference key="286"></reference>
                 </dictionary>
                </instance>
               </list>
               <string role="key" value="icon"></string>
               <unicode value=""></unicode>
               <string role="key" value="id"></string>
-              <unicode value="112"></unicode>
+              <unicode value="114"></unicode>
               <string role="key" value="ideviceCategory"></string>
               <unicode value="Text and Tasks"></unicode>
               <string role="key" value="lastIdevice"></string>
@@ -15533,6 +15557,374 @@
          <instance class="exe.engine.node.Node" reference="289">
           <dictionary>
            <string role="key" value="_title"></string>
+           <unicode value="Permisos en Linux"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="287">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="288">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="116_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="287"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;h1 cid=&quot;n0&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading md-focus&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain md-expand&quot;&gt;Permisos&lt;/span&gt;&lt;/h1&gt;
+&lt;p cid=&quot;n2&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;En la imagen posterior tenemos un listado detallado del contenido de un directorio. Es importante conocer que significado tiene cada dato y como podemos modificarlo.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n4&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;&lt;img src=&quot;resources/listadoDetalladoLinux.jpg&quot; /&gt;Por ello vamos a colorearlo para desgranarlo poco a poco.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n5&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;image&quot; data-src=&quot;img/listadoDetalladoColoreadoLinux.jpg&quot; class=&quot;md-image md-img-loaded&quot;&gt;&lt;img src=&quot;resources/listadoDetalladoColoreadoLinux.jpg&quot; width=&quot;1027&quot; height=&quot;671&quot; alt=&quot;listado coloreado&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n6&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;El recuadro verde (1er recuadro desde la izquierda) hace referencia a los &lt;/span&gt;&lt;span md-inline=&quot;strong&quot; class=&quot;md-pair-s &quot;&gt;&lt;strong&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;permisos&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;. Aquí vemos que, dentro de lo reseñado en verde, aparecen 10 columnas.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n7&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;La 1ª columna puede tomar los valores:&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;ul-list&quot; cid=&quot;n8&quot; mdtype=&quot;list&quot; data-mark=&quot;*&quot;&gt;
+&lt;li class=&quot;md-list-item&quot; cid=&quot;n9&quot; mdtype=&quot;list_item&quot;&gt;
+&lt;p cid=&quot;n10&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;d: Nos indica que se trata de un directorio&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li class=&quot;md-list-item&quot; cid=&quot;n11&quot; mdtype=&quot;list_item&quot;&gt;
+&lt;p cid=&quot;n12&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;-: Nos indica que se trata de un archivo&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li class=&quot;md-list-item&quot; cid=&quot;n13&quot; mdtype=&quot;list_item&quot;&gt;
+&lt;p cid=&quot;n14&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;otros: Existen otros posibles valores pero de momento no vamos a trabajar con ellos&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p cid=&quot;n15&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Las columnas 2ª a 4ª establecen los permisos que sobre el fichero/directorio tiene el &lt;/span&gt;&lt;span md-inline=&quot;strong&quot; class=&quot;md-pair-s &quot;&gt;&lt;strong&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;propietario&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; del mismo.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n16&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Las columnas 5ª a 7ª establecen los permisos que sobre el fichero/directorio tienen los usuarios pertenecientes al &lt;/span&gt;&lt;span md-inline=&quot;strong&quot; class=&quot;md-pair-s &quot;&gt;&lt;strong&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;grupo&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n17&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Las columnas 8ª a 10ª establece los permisos que sobre el fichero/directorio tienen el &lt;/span&gt;&lt;span md-inline=&quot;strong&quot; class=&quot;md-pair-s &quot;&gt;&lt;strong&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;resto de usuarios&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n18&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;El recuadro azul (2º recuadro desde la izquierda) nos permite conocer el &lt;/span&gt;&lt;span md-inline=&quot;strong&quot; class=&quot;md-pair-s &quot;&gt;&lt;strong&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;propietario y el grupo al que pertenece&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; el fichero/directorio. Veremos que en él aparecen 2 columnas. La columna de la izquierda nos indica el propietario del fichero y la columna de la derecha nos indica el grupo al que pertenece el fichero.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n19&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;El recuadro amarillo (3er recuadro desde la izquierda)...&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n20&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;El recuadro rojo (4º recuadro desde la izquierda) nos muestra el &lt;/span&gt;&lt;span md-inline=&quot;strong&quot; class=&quot;md-pair-s &quot;&gt;&lt;strong&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;nombre del fichero o directorio&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;. Recuerda que si antes del nombre aparece un &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;.&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; significa que el fichero o directorio está oculto.&lt;/span&gt;&lt;/p&gt;
+&lt;h2 cid=&quot;n21&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;chmod&lt;/span&gt;&lt;/h2&gt;
+&lt;p cid=&quot;n22&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Cambia los permisos de un determinado fichero.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n23&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Será necesario tener la tabla siguiente muy en cuenta ya que mas adelante veremos que nos va a resultar de gran utilidad.&lt;/span&gt;&lt;/p&gt;
+&lt;figure class=&quot;md-table-fig&quot; cid=&quot;n24&quot; mdtype=&quot;table&quot;&gt;
+&lt;table class=&quot;md-table&quot;&gt;
+&lt;thead&gt;
+&lt;tr class=&quot;md-end-block&quot; cid=&quot;n25&quot; mdtype=&quot;table_row&quot;&gt;
+&lt;th&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n26&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Binario&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;th&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n27&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Octal&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;th&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n28&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Permisos&lt;/span&gt;&lt;/span&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&quot;md-end-block&quot; cid=&quot;n29&quot; mdtype=&quot;table_row&quot;&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n30&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;000&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n31&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n32&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;---&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;md-end-block&quot; cid=&quot;n33&quot; mdtype=&quot;table_row&quot;&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n34&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;001&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n35&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n36&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;--x&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;md-end-block&quot; cid=&quot;n37&quot; mdtype=&quot;table_row&quot;&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n38&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;010&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n39&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n40&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;-w-&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;md-end-block&quot; cid=&quot;n41&quot; mdtype=&quot;table_row&quot;&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n42&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;011&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n43&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;3&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n44&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;-wx&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;md-end-block&quot; cid=&quot;n45&quot; mdtype=&quot;table_row&quot;&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n46&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;100&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n47&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;4&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n48&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;r--&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;md-end-block&quot; cid=&quot;n49&quot; mdtype=&quot;table_row&quot;&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n50&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;101&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n51&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;5&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n52&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;r-x&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;md-end-block&quot; cid=&quot;n53&quot; mdtype=&quot;table_row&quot;&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n54&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;110&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n55&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;6&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n56&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;rw-&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;md-end-block&quot; cid=&quot;n57&quot; mdtype=&quot;table_row&quot;&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n58&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;111&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n59&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;7&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&quot;td-span&quot; cid=&quot;n60&quot; mdtype=&quot;table_cell&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;rwx&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/figure&gt;
+&lt;p cid=&quot;n61&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;En la tercera columna de la tabla podemos apreciar que la primera columna siempre toma el valor &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;r&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; o &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;-&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;, que la segunda columna siempre toma el valor &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;w&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; o &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;-&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; y que la tercera columna siempre toma el valor &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;x&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; o &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;-&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;. El valor &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;r&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; indica que se tiene &lt;/span&gt;&lt;span md-inline=&quot;strong&quot; class=&quot;md-pair-s &quot;&gt;&lt;strong&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;permiso de lectura&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;, el valor &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;w&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; indica que se tiene &lt;/span&gt;&lt;span md-inline=&quot;strong&quot; class=&quot;md-pair-s &quot;&gt;&lt;strong&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;permiso de escritura&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; y el valor &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;x&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; indica que se tiene &lt;/span&gt;&lt;span md-inline=&quot;strong&quot; class=&quot;md-pair-s &quot;&gt;&lt;strong&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;permiso de ejecución&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;. En caso de aparecer el &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;-&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; no se dispone de ese permiso.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n62&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Vamos a ver unos ejemplos:&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n63&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n64&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;-rwxrw-r--&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n65&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;En el caso anterior se trata de un fichero ya que el primer valor es un &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;-&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;. Sobre este fichero su propietario tiene todos los permisos &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;rwx&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;, los miembros del grupo tienen permisos de lectura y escritura &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;rw-&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; y el resto de usuarios solo tienen permiso de lectura &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;r--&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n66&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n67&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;d--xrwxr--&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n68&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;En el caso anterior se trata de un directorio ya que el primer valor es una &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;d&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;. Sobre este directorio su propietario tiene permiso de ejecución &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;--x&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;, los miembros del grupo tienen todos los permisos &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;rwx&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; y el resto de usuarios solo tienen permiso de lectura &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;r--&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n69&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Volviendo al uso del comando &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;chmod&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; vamos a ver unos ejemplos:&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n70&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n71&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ chmod 754 fichero.txt&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n72&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;En el caso anterior vamos a establecer los permisos 754 al fichero llamado fichero.txt. El 7 se traducirá como 111, es decir, &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;rwx&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;. El 5 se traducirá como 101, es decir, &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;r-x&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; y el 4 se traducirá como 100, es decir, &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;r--&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; con lo que fichero.txt quedará así &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;-rwxr-xr--&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n73&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Con frecuencia nos interesa modificar los permisos de un directorio y todo su contenido, para ello deberemos de utilizar el comando de &lt;/span&gt;&lt;span md-inline=&quot;strong&quot; class=&quot;md-pair-s &quot;&gt;&lt;strong&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;modo recursivo&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; utilizando el modificador -R. Vamos a ver un ejemplo:&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n74&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n75&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ chmod -R 744 /var/www/html&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n76&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;En el caso anterior vamos a establecer los permisos 744 al directorio &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;/var/www/html&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; y a todo su contenido.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n77&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Según quien sea el propietario del fichero/directorio quizás debamos recurrir al comando &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;sudo&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; para disponer de permisos de administrador y poder así llevar a cabo la acción. El comando &lt;/span&gt;&lt;span md-inline=&quot;code&quot; spellcheck=&quot;false&quot; class=&quot;md-pair-s&quot;&gt;&lt;code&gt;sudo&lt;/code&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; aparece explicado en el siguiente capítulo.&lt;/span&gt;&lt;/p&gt;
+&lt;h2 cid=&quot;n78&quot; mdtype=&quot;heading&quot; class=&quot;md-end-block md-heading&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;chown&lt;/span&gt;&lt;/h2&gt;
+&lt;p cid=&quot;n79&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Cambia el propietario de un fichero o directorio.&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n80&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n81&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ chown profesor index.html&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n82&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;En el caso anterior vamos a cambiar el propietario del fichero llamado index.html. El propietaro del fichero pasará a ser el usuario www-data.&lt;/span&gt;&lt;/p&gt;
+&lt;p cid=&quot;n83&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;Con frecuencia nos interesa modificar los propietarios de un directorio y todo su contenido, para ello deberemos de utilizar el comando de &lt;/span&gt;&lt;span md-inline=&quot;strong&quot; class=&quot;md-pair-s &quot;&gt;&lt;strong&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;modo recursivo&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt; utilizando el modificador -R. Vamos a ver un ejemplo:&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote cid=&quot;n84&quot; mdtype=&quot;blockquote&quot;&gt;
+&lt;p cid=&quot;n85&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;$ chown -R  profesor  /var/www/html&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p cid=&quot;n86&quot; mdtype=&quot;paragraph&quot; class=&quot;md-end-block md-p&quot;&gt;&lt;span md-inline=&quot;plain&quot; class=&quot;md-plain&quot;&gt;En el caso anterior vamos a cambiar el propietario de la carpeta /var/www/html y todo su contenido. Ahora el nuevo propietario será www-data.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="296"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="114_116_2.0"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="290">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="287"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="1"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="listadoDetalladoLinux.jpg"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpklr96a.eXe\\previews\\listadoDetalladoLinux.jpg"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="70f8f5fc4b570315e8eec8b2279ae032"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="288"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="297"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="114_116_2.1"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="291">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="287"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="1"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="listadoDetalladoColoreadoLinux.jpg"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="c:\\users\\leon\\appdata\\local\\temp\\tmpklr96a.eXe\\previews\\listadoDetalladoColoreadoLinux.jpg"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="23a72c31a3277c85e836a61755d870b8"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="288"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                   </list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="288"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="2"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="289"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="114"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="289"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list>
+               <reference key="290"></reference>
+               <reference key="291"></reference>
+              </list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="97"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="1"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Apuntes%20OACE:UD6y7%3A%20Windows%20y%20Linux:Permisos%20en%20Linux"></string>
+           <string role="key" value="parent"></string>
+           <reference key="283"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="294">
+          <dictionary>
+           <string role="key" value="_title"></string>
            <unicode value="Comandos en Windows"></unicode>
            <string role="key" value="idevices"></string>
            <list></list>
@@ -15565,7 +15957,7 @@
    <unicode role="key" value="1"></unicode>
    <reference key="6"></reference>
    <unicode role="key" value="10"></unicode>
-   <reference key="287"></reference>
+   <reference key="292"></reference>
    <unicode role="key" value="11"></unicode>
    <reference key="94"></reference>
    <unicode role="key" value="12"></unicode>
@@ -15683,7 +16075,7 @@
    <unicode role="key" value="63"></unicode>
    <reference key="170"></reference>
    <unicode role="key" value="64"></unicode>
-   <reference key="288"></reference>
+   <reference key="293"></reference>
    <unicode role="key" value="65"></unicode>
    <reference key="199"></reference>
    <unicode role="key" value="66"></unicode>
@@ -15747,9 +16139,11 @@
    <unicode role="key" value="94"></unicode>
    <reference key="286"></reference>
    <unicode role="key" value="95"></unicode>
-   <reference key="289"></reference>
+   <reference key="294"></reference>
    <unicode role="key" value="96"></unicode>
    <reference key="280"></reference>
+   <unicode role="key" value="97"></unicode>
+   <reference key="289"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -15762,7 +16156,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="280"></reference>
+  <reference key="286"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -17013,6 +17407,10 @@
     <reference key="242"></reference>
     <reference key="250"></reference>
    </list>
+   <string role="key" value="23a72c31a3277c85e836a61755d870b8"></string>
+   <list>
+    <reference key="291"></reference>
+   </list>
    <string role="key" value="360983074a08b2254054ac26fb458507"></string>
    <list>
     <reference key="267"></reference>
@@ -17024,6 +17422,10 @@
    <string role="key" value="555c17438193ac08f29dbc808f3ae802"></string>
    <list>
     <reference key="249"></reference>
+   </list>
+   <string role="key" value="70f8f5fc4b570315e8eec8b2279ae032"></string>
+   <list>
+    <reference key="290"></reference>
    </list>
    <string role="key" value="77205da02474858bdb45c4ab8a4420a8"></string>
    <list>
