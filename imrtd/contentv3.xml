@@ -195,7 +195,9 @@
               <string role="key" value="anchors_linked_from_fields"></string>
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
-              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Estos materiales han sido desarrollados por Pablo Ruiz Soria desde septiembre de 2019 a la actualidad.&lt;/p&gt;
+              <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Estos materiales han sido desarrollados por:&lt;/p&gt;
+&lt;p&gt;Pablo Ruiz Soria desde septiembre de 2019 a la actualidad.&lt;/p&gt;
+&lt;p&gt;León Larrondo desde septiembre 2021&lt;/p&gt;
 &lt;p&gt;Puedes hacer uso de ellos siempre y cuando respetes la licencia que aparece en los apuntes&lt;/p&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
@@ -12068,7 +12070,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="67"></reference>
+  <reference key="4"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
