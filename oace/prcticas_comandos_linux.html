@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="content.css" />
 <link rel="stylesheet" type="text/css" href="nav.css" />
 <meta http-equiv="content-type" content="text/html;  charset=utf-8" />
-<title>4. Estructura del árbol de directorios | Apuntes OACE </title>
+<title>Prácticas comandos Linux | Apuntes OACE </title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <meta name="author" content="José León Larrondo García" />
 <link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
@@ -16,7 +16,7 @@
 <script type="text/javascript" src="common.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
-<body class="exe-web-site" id="exe-node-79"><script type="text/javascript">document.body.className+=" js"</script>
+<body class="exe-web-site" id="exe-node-141"><script type="text/javascript">document.body.className+=" js"</script>
 <div id="content">
 <p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
 <header id="header" ><div id="headerContent">Apuntes OACE</div></header>
@@ -139,8 +139,8 @@
    </ul>
    </li>
    <li><a href="ud4_multimedia.html" class="no-ch">UD4: Multimedia</a></li>
-   <li class="current-page-parent"><a href="ud5_implantacin_de_ssoo.html" class="current-page-parent daddy">UD5: Implantación de SSOO</a>
-   <ul>
+   <li><a href="ud5_implantacin_de_ssoo.html" class="daddy">UD5: Implantación de SSOO</a>
+   <ul class="other-section">
       <li><a href="1_caractersticas_y_funciones_fundamentales_de_un_so.html" class="daddy">1: Características y funciones fundamentales de un S.O.</a>
       <ul class="other-section">
          <li><a href="11_funciones_de_un_sistema_operativo.html" class="no-ch">1.1 Funciones de un sistema operativo</a></li>
@@ -180,8 +180,8 @@
          </li>
       </ul>
       </li>
-      <li id="active"><a href="4_estructura_del_rbol_de_directorios.html" class="active daddy">4. Estructura del árbol de directorios</a>
-      <ul>
+      <li><a href="4_estructura_del_rbol_de_directorios.html" class="daddy">4. Estructura del árbol de directorios</a>
+      <ul class="other-section">
          <li><a href="41_rbol_de_directorios_en_windows.html" class="no-ch">4.1 Árbol de directorios en Windows</a></li>
          <li><a href="42_rbol_de_directorios_en_linux.html" class="no-ch">4.2 Árbol de directorios en Linux</a></li>
          <li><a href="43_rutas_absolutas.html" class="no-ch">4.3 Rutas absolutas</a></li>
@@ -240,7 +240,7 @@
       <li><a href="windows_compartir_archivos_y_carpetas_a_travs_de_una_red.html" class="no-ch">Windows: Compartir archivos y carpetas a través de una red</a></li>
    </ul>
    </li>
-   <li><a href="prcticas_comandos_linux.html" class="no-ch">Prácticas comandos Linux</a></li>
+   <li id="active"><a href="prcticas_comandos_linux.html" class="active no-ch">Prácticas comandos Linux</a></li>
    <li><a href="ud_10_servicios_web.html" class="daddy">UD 10: Servicios web</a>
    <ul class="other-section">
       <li><a href="crear_una_web_con_wordpress.html" class="no-ch">Crear una web con Wordpress</a></li>
@@ -258,22 +258,17 @@
 </nav>
 <div id='topPagination'>
 <nav class="pagination noprt">
-<a href="prctica_05.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="41_rbol_de_directorios_en_windows.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="windows_compartir_archivos_y_carpetas_a_travs_de_una_red.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="ud_10_servicios_web.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <div id="main-wrapper">
 <section id="main">
-<header id="nodeDecoration"><h1 id="nodeTitle">4. Estructura del árbol de directorios</h1></header>
-<article class="iDevice_wrapper textIdevice" id="id98">
+<header id="nodeDecoration"><h1 id="nodeTitle">Prácticas comandos Linux</h1></header>
+<article class="iDevice_wrapper textIdevice" id="id163">
 <div class="iDevice emphasis0" >
-<div id="ta98_114_2" class="block iDevice_content">
-<div class="exe-text"><p>Comenzaremos viendo como define la wikipedia de<span> </span><a href="https://es.wikipedia.org/wiki/Directorio" target="_blank" rel="noopener">directorio</a>:</p>
-<blockquote>
-<p>En informática, un directorio es un contenedor virtual en el que se almacenan una agrupación de archivos informáticos y otros subdirectorios, atendiendo a su contenido, a su propósito o a cualquier criterio que decida el usuario. Técnicamente, el directorio almacena información acerca de los archivos que contiene: como los atributos de los archivos o dónde se encuentran físicamente en el dispositivo de almacenamiento.</p>
-</blockquote>
-<p>El término<span> </span><strong>carpeta</strong><span> </span>se utiliza como sinónimo de directorio.</p>
-<p>Los directorios crean una<span> </span><strong>estructura de árbol</strong><span> </span>que difiere ligeramente en función del tipo de sistema operativo con el que estemos trabajando. A continuación veremos sus diferencias en SSOO Windows y SSOO Linux.</p>
-<p>Para poder movernos a través de estas estructuras de directorios haremos uso de<span> </span><strong>rutas relativas</strong><span> </span>o<span> </span><strong>rutas absolutas</strong>.</p></div>
+<div id="ta163_163_2" class="block iDevice_content">
+<div class="exe-text"><p><a href="https://drive.google.com/drive/folders/1xI072-gJ2nzKKiG7pF1hzB3-djH_e2qk?usp=sharing">Prácticas comandos Linux/Windows</a></p>
+<p></p></div>
 </div>
 </div>
 </article>
@@ -284,7 +279,7 @@
 </div>
 <div id='bottomPagination'>
 <nav class="pagination noprt">
-<a href="prctica_05.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="41_rbol_de_directorios_en_windows.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="windows_compartir_archivos_y_carpetas_a_travs_de_una_red.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="ud_10_servicios_web.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 </div>
