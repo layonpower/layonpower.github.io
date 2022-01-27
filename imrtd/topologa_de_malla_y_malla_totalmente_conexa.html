@@ -14,11 +14,9 @@
 <script type="text/javascript" src="exe_jquery.js"></script>
 <script type="text/javascript" src="common_i18n.js"></script>
 <script type="text/javascript" src="common.js"></script>
-<link rel="stylesheet" type="text/css" href="udl-content.css" />
-<script type="text/javascript" src="udl-content.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
-<body class="exe-web-site" id="exe-node-121"><script type="text/javascript">document.body.className+=" js"</script>
+<body class="exe-web-site" id="exe-node-131"><script type="text/javascript">document.body.className+=" js"</script>
 <div id="content">
 <p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
 <header id="header" ><div id="headerContent">IMRTD</div></header>
@@ -101,11 +99,11 @@
          <li><a href="fsicas.html" class="no-ch">Físicas</a></li>
          <li><a href="lgicas.html" class="no-ch">Lógicas</a></li>
          <li><a href="topologa_de_bus.html" class="no-ch">Topología de bus</a></li>
+         <li><a href="topologa_de_estrella.html" class="no-ch">Topología de estrella</a></li>
          <li><a href="topologa_de_anillo_y_doble_anillo.html" class="no-ch">Topología de anillo y doble anillo</a></li>
          <li><a href="topologa_de_rbol.html" class="no-ch">Topología de árbol</a></li>
-         <li id="active"><a href="topologa_de_malla_y_malla_totalmente_conexa.html" class="active no-ch">Topología de malla y malla totalmente conexa</a></li>
-         <li><a href="topologa_de_estrella.html" class="no-ch">Topología de estrella</a></li>
          <li><a href="topologa_mixta.html" class="no-ch">Topología mixta</a></li>
+         <li id="active"><a href="topologa_de_malla_y_malla_totalmente_conexa.html" class="active no-ch">Topología de malla y malla totalmente conexa</a></li>
       </ul>
       </li>
       <li><a href="parmetros_de_la_direccin_de_red.html" class="daddy">Parámetros de la dirección de red</a>
@@ -117,7 +115,8 @@
          </ul>
          </li>
          <li><a href="mscara_de_red.html" class="no-ch">Máscara de red</a></li>
-         <li><a href="direccin_de_red_direccin_de_broadcast.html" class="no-ch">Dirección de red. Dirección de broadcast</a></li>
+         <li><a href="direccin_de_red.html" class="no-ch">Dirección de red</a></li>
+         <li><a href="direccin_de_broadcast.html" class="no-ch">Dirección de broadcast</a></li>
          <li><a href="puerta_de_enlace.html" class="no-ch">Puerta de enlace</a></li>
          <li><a href="dns.html" class="no-ch">DNS</a></li>
       </ul>
@@ -176,18 +175,19 @@
 </nav>
 <div id='topPagination'>
 <nav class="pagination noprt">
-<a href="topologa_de_rbol.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="topologa_de_estrella.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="topologa_mixta.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="parmetros_de_la_direccin_de_red.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <div id="main-wrapper">
 <section id="main">
 <header id="nodeDecoration"><h1 id="nodeTitle">Topología de malla y malla totalmente conexa</h1></header>
-<article class="iDevice_wrapper UDLcontentIdevice" id="id74">
+<article class="iDevice_wrapper textIdevice" id="id77">
 <div class="iDevice emphasis0" >
-<div id="ta74_114_2" class="block iDevice_content">
-<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Cada dispositivo ,o nodo, se conecta exactamente a otros dos, formando una única ruta continua, para las señales a través de cada uno: un anillo. Los datos viajan de un nodo a otro. Los anillos pueden ser unidireccionales o bidireccionales.</p>
-<p>Si falla un nodo, podría dejar aislados e incomunicados a los demás nodos del anillo. Para solventar este posible problema, existe la topología de doble anillo, que lo que hace es añadir una redundancia a la topología.</p>
-<p>&nbsp;Más información: <a href="https://es.wikipedia.org/wiki/Red_en_anillo">https://es.wikipedia.org/wiki/Red_en_anillo</a></p></div></div></section></div>
+<div id="ta77_112_2" class="block iDevice_content">
+<div class="exe-text"><p>En esta topología no existe un nodo central y hay diferentes rutas entre los nodos, debido a que muchos de los nodos están conectados a más de uno a la vez, incluso alguno está conectado a todos los demás.</p>
+<p>Hablaremos de topología en malla cuando no todos los nodos están conectados con todos los demás y totalmente conexa cuando cada nodo está conectado directamente a todos los demás.</p>
+<p>Si la red de malla está completamente conectada, no puede existir absolutamente ninguna interrupción en las comunicaciones y se denomina totalmente conexa.</p>
+<p><br />Más información: <a href="https://es.wikipedia.org/wiki/Red_en_malla">https://es.wikipedia.org/wiki/Red_en_malla</a></p></div>
 </div>
 </div>
 </article>
@@ -198,7 +198,7 @@
 </div>
 <div id='bottomPagination'>
 <nav class="pagination noprt">
-<a href="topologa_de_rbol.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="topologa_de_estrella.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="topologa_mixta.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="parmetros_de_la_direccin_de_red.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 </div>

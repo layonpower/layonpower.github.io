@@ -99,11 +99,11 @@
          <li><a href="fsicas.html" class="no-ch">Físicas</a></li>
          <li><a href="lgicas.html" class="no-ch">Lógicas</a></li>
          <li><a href="topologa_de_bus.html" class="no-ch">Topología de bus</a></li>
+         <li><a href="topologa_de_estrella.html" class="no-ch">Topología de estrella</a></li>
          <li><a href="topologa_de_anillo_y_doble_anillo.html" class="no-ch">Topología de anillo y doble anillo</a></li>
          <li><a href="topologa_de_rbol.html" class="no-ch">Topología de árbol</a></li>
-         <li><a href="topologa_de_malla_y_malla_totalmente_conexa.html" class="no-ch">Topología de malla y malla totalmente conexa</a></li>
-         <li><a href="topologa_de_estrella.html" class="no-ch">Topología de estrella</a></li>
          <li><a href="topologa_mixta.html" class="no-ch">Topología mixta</a></li>
+         <li><a href="topologa_de_malla_y_malla_totalmente_conexa.html" class="no-ch">Topología de malla y malla totalmente conexa</a></li>
       </ul>
       </li>
       <li class="current-page-parent"><a href="parmetros_de_la_direccin_de_red.html" class="current-page-parent daddy">Parámetros de la dirección de red</a>
@@ -115,7 +115,8 @@
          </ul>
          </li>
          <li id="active"><a href="mscara_de_red.html" class="active no-ch">Máscara de red</a></li>
-         <li><a href="direccin_de_red_direccin_de_broadcast.html" class="no-ch">Dirección de red. Dirección de broadcast</a></li>
+         <li><a href="direccin_de_red.html" class="no-ch">Dirección de red</a></li>
+         <li><a href="direccin_de_broadcast.html" class="no-ch">Dirección de broadcast</a></li>
          <li><a href="puerta_de_enlace.html" class="no-ch">Puerta de enlace</a></li>
          <li><a href="dns.html" class="no-ch">DNS</a></li>
       </ul>
@@ -174,12 +175,33 @@
 </nav>
 <div id='topPagination'>
 <nav class="pagination noprt">
-<a href="fija.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="direccin_de_red_direccin_de_broadcast.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="fija.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="direccin_de_red.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 <div id="main-wrapper">
 <section id="main">
 <header id="nodeDecoration"><h1 id="nodeTitle">Máscara de red</h1></header>
+<article class="iDevice_wrapper textIdevice" id="id78">
+<div class="iDevice emphasis0" >
+<div id="ta78_113_2" class="block iDevice_content">
+<div class="exe-text"><p>Es una combinación de bits que sirve para delimitar una red de ordenadores. Está formado por una combinación de bits, 32 separados de 8 en 8, es decir, en 4 octetos de bits.. Al aplicar una máscara de red a una IP sabremos qué parte corresponde la dirección de red y qué parte al host.</p>
+<p>Por ejemplo, la máscara  <strong>11111111.00000000.00000000.00000000</strong> o  <strong>255.0.0.0</strong> en su representación decimal indica que se usarán los 8 primeros bits para la dirección de red y los siguientes 24 para la de host. Otra manera de representarlo es utilizando un barra y el número de bits para la red. En el ejemplo anterior sería <strong>/8</strong>.</p>
+<p>Por ejemplo, si tenemos la dirección <strong>10.0.0.0 /8</strong> significa que se utiliza el primer octeto para la red y los otros 3 para el host.</p>
+<p><em>Pongamos otro ejemplo con IP muy conocida:</em></p>
+<p><em>192.168.0.1 /24</em></p>
+<p><em>Eso significa que la máscara es 255.255.255.0 </em></p>
+<p><em>Con ello sabremos que solo podremos usar el último octeto para asignarlo  a los host de la red:</em></p>
+<p><em>Podríamos tener:</em></p>
+<ul>
+<li><em>Router 192.168.0.1 </em></li>
+<li><em>Ordenador 192.168.0.4</em></li>
+<li><em>Portátil 192.168.0.5</em></li>
+<li><em>Videoconsola 192.168.0.6</em></li>
+<li><em>Móvil 192.168.0.7</em></li>
+</ul></div>
+</div>
+</div>
+</article>
 <div id="packageLicense" class="cc cc-by-nc-sa">
 <p><span>Obra publicada con</span> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></p>
 </div>
@@ -187,7 +209,7 @@
 </div>
 <div id='bottomPagination'>
 <nav class="pagination noprt">
-<a href="fija.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="direccin_de_red_direccin_de_broadcast.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+<a href="fija.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="direccin_de_red.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
 </nav>
 </div>
 </div>
